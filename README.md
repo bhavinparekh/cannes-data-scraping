@@ -44,11 +44,13 @@ For development, you will only need Node.js and a node global package, Yarn, ins
 
 If the installation was successful, you should be able to run the following command.
 
-    $ node --version
-    v15.3.0
+```bash
+  node --version
+  # v15.3.0
 
-    $ npm --version
-    7.0.14
+  npm --version
+  #7.0.14
+```
 
 ###
 
@@ -76,13 +78,17 @@ source ~/.bashrc
 
 ## Install
 
-    $ git clone git@gitlab.pertimm.net:klea/cannes-data-scraping.git
-    $ cd cannes-data-scraping
-    $ yarn install
+```bash
+  git clone git@gitlab.pertimm.net:klea/cannes-data-scraping.git
+  cd cannes-data-scraping
+  yarn install
+```
 
 ## Running the script
 
-    $ yarn start
+```bash
+  yarn start
+```
 
 ## Steps to follow
 
@@ -100,5 +106,6 @@ source ~/.bashrc
   );
   ```
   - The UNIVERSE_NAME must be choosen from on of the created in the backoffice (https://backoffice.clicknlerins.fr/#/universes)
+- The generated files will be under the workspace dir ( check the `workspaceDir` variable in the file `src/functions.js`)
 
-Check the `main.js` file form more understanding
+Check the `src/main.js` file form more understanding

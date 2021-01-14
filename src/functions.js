@@ -7,6 +7,8 @@ import sha1 from "sha1";
 export const workspaceDir = path.join(os.tmpdir(), "/cannes/");
 fs.ensureDirSync(workspaceDir, { mode: 0o777 });
 
+console.log("You workspace dir is *", workspaceDir, "*");
+
 /**
  *
  * @param {*} json  The imported JSON file
