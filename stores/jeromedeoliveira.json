@@ -1,1122 +1,1376 @@
 [
   {
-    "url": "https://jeromedeoliveira.com/cakes/121-coffret-gateaux-de-voyage.html",
-    "title": "Coffret gâteaux de voyage",
-    "description": "Un coffret rempli de douceur et de gourmandise avec nos gâteaux de voyage incontournables ! Retrouvez le fameux brownie du chef, la madeleine vanille, le moelleux pistache et les financiers fleur d'oranger et tigré.",
-    "categories": ["Accros aux cakes"],
-    "price": "15,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/81-large_default/coffret-gateaux-de-voyage.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/bubble-cakes/97-assortiment-de-bubble-cakes.html",
-    "title": "Assortiment de bubble cakes",
-    "description": null,
-    "categories": ["Accros aux cakes"],
-    "price": "11,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/146-large_default/assortiment-de-bubble-cakes.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/96-flan.html",
-    "title": "Flan",
-    "description": "Flan patissier à la vanille française. Le petit plus du chef : une crème vanille très onctueuse…sans œufs !",
-    "categories": ["Accros aux cakes"],
-    "price": "20,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/79-large_default/flan.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/95-cake-vanille.html",
-    "title": "Cake vanille",
-    "description": "Cake à la vanille française.",
-    "categories": ["Accros aux cakes"],
-    "price": "15,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/78-large_default/cake-vanille.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/94-panettone-mandarine.html",
-    "title": "Panettone mandarine",
-    "description": "Spécialité typiquement italienne à la mandarine et au chocolat noir.",
-    "categories": ["Accros aux cakes"],
-    "price": "16,50",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/77-large_default/panettone-mandarine.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/93-panettone.html",
-    "title": "Panettone",
-    "description": "Spécialité typiquement italienne aux fruits confits.",
-    "categories": ["Accros aux cakes"],
-    "price": "15,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/76-large_default/panettone.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/92-cake-citron.html",
-    "title": "Cake citron",
-    "description": "Cake aux citrons de Menton.",
-    "categories": ["Accros aux cakes"],
-    "price": "15,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/75-large_default/cake-citron.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/91-cake-yuzu.html",
-    "title": "Cake yuzu",
-    "description": "Le yuzu, agrume japonais, donne à notre cake une saveur acidulée.",
-    "categories": ["Accros aux cakes"],
-    "price": "15,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/74-large_default/cake-yuzu.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/90-cake-pain-d-epices.html",
-    "title": "Cake pain d'épices",
-    "description": "La tradition des fêtes de fin d'année autour de ce cake aux notes épicées.",
-    "categories": ["Accros aux cakes"],
-    "price": "16,50",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/73-large_default/cake-pain-d-epices.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/89-cake-chocolat-gianduja.html",
-    "title": "Cake chocolat-gianduja",
-    "description": "Un must pour les amateurs de chocolat (cacao : 64% min.) et de noisette !",
-    "categories": ["Accros aux cakes"],
-    "price": "15,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/72-large_default/cake-chocolat-gianduja.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/cakes/88-cake-marbre.html",
-    "title": "Cake marbré",
-    "description": "Cake marbré tout simplement !",
-    "categories": ["Accros aux cakes"],
-    "price": "15,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/71-large_default/cake-marbre.jpg"],
-    "extra": {}
-  },
-  {
     "url": "https://jeromedeoliveira.com/gourmandises-de-d-je/154-etui-6-marrons-glaces.html",
     "title": "Etui 6 marrons glacés",
-    "description": null,
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Cet incontournable des fêtes de fin d’année ravira vos papilles avec son goût sucré et gourmand !Cet incontournable des fêtes de fin d’année ravira vos papilles avec son goût sucré et gourmand !",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "20,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/139-large_default/etui-6-marrons-glaces.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/151-panier-cadeaux-taille-3.html",
-    "title": "Panier cadeau - Taille 3",
-    "description": "",
-    "categories": ["Gourmandises de D'jé"],
-    "price": "65,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/134-large_default/panier-cadeaux-taille-3.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/150-panier-cadeaux-taille-2.html",
-    "title": "Panier cadeau - Taille 2",
-    "description": "",
-    "categories": ["Gourmandises de D'jé"],
-    "price": "49,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/133-large_default/panier-cadeaux-taille-2.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/149-panier-cadeau-taille-1.html",
-    "title": "Panier cadeau - Taille 1",
-    "description": "",
-    "categories": ["Gourmandises de D'jé"],
-    "price": "29,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/132-large_default/panier-cadeau-taille-1.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/139-large_default/etui-6-marrons-glaces.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Marrons confits (marrons, sirop de glucose (BLE) - origine : Turin.Marrons confits (marrons, sirop de glucose (BLE) - origine : Turin."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/gourmandises-de-d-je/141-assortiment-calissons-et-nougats.html",
     "title": "Assortiment calissons et nougats",
-    "description": null,
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Le coffret parfait pour les amateurs de ces friandises incontournables !Le coffret parfait pour les amateurs de ces friandises incontournables !",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "18,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/112-large_default/assortiment-calissons-et-nougats.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/112-large_default/assortiment-calissons-et-nougats.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Calissons : AMANDES, melon confit origine France (melon, sirop de glucose, fructose, acide citrique, E220), sucre, sucre glace, miel de lavande,sirop de sucre inverti, sirop de glucose, extrait naturel de fleur d'oranger, écorces d'oranges confites (écorces d'oranges, sirop de glucose, fructose, sucre, E202, acide citrique, E220), pain azyme (fécule de pomme de terre, eau, huile de tournesol), blancs d'OEUFS, Nougats : sucre, AMANDES, sirop de glucose, miel, PISTACHES, pain azyme (fécule de pomme de terre, eau, huile de tournesol),  blancs d'OEUFS, arôme naturel de vanille.Calissons : AMANDES, melon confit origine France (melon, sirop de glucose, fructose, acide citrique, E220), sucre, sucre glace, miel de lavande,sirop de sucre inverti, sirop de glucose, extrait naturel de fleur d'oranger, écorces d'oranges confites (écorces d'oranges, sirop de glucose, fructose, sucre, E202, acide citrique, E220), pain azyme (fécule de pomme de terre, eau, huile de tournesol), blancs d'OEUFS, Nougats : sucre, AMANDES, sirop de glucose, miel, PISTACHES, pain azyme (fécule de pomme de terre, eau, huile de tournesol),  blancs d'OEUFS, arôme naturel de vanille."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/gourmandises-de-d-je/140-calissons.html",
     "title": "Calissons",
-    "description": null,
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Spécialité de Provence.Spécialité de Provence.",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/111-large_default/calissons.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/choco-addict/137-rocailles-noir.html",
-    "title": "Rocailles Noir",
-    "description": null,
-    "categories": ["Gourmandises de D'jé"],
-    "price": "9,90",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/104-large_default/rocailles-noir.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/choco-addict/136-rocailles-lait.html",
-    "title": "Rocailles Lait",
-    "description": null,
-    "categories": ["Gourmandises de D'jé"],
-    "price": "9,90",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/103-large_default/rocailles-lait.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/111-large_default/calissons.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "AMANDES, melon confit origine France (melon, sirop de glucose, fructose, acide citrique, E220), sucre, sucre glace, miel de lavande,sirop de sucre inverti, sirop de glucose, extrait naturel de fleur d'oranger, écorces d'oranges confites (écorces d'oranges, sirop de glucose, fructose, sucre, E202, acide citrique, E220), pain azyme (fécule de pomme de terre, eau, huile de tournesol), blancs d'OEUFS.AMANDES, melon confit origine France (melon, sirop de glucose, fructose, acide citrique, E220), sucre, sucre glace, miel de lavande,sirop de sucre inverti, sirop de glucose, extrait naturel de fleur d'oranger, écorces d'oranges confites (écorces d'oranges, sirop de glucose, fructose, sucre, E202, acide citrique, E220), pain azyme (fécule de pomme de terre, eau, huile de tournesol), blancs d'OEUFS."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/gourmandises-de-d-je/135-babas-au-rhum.html",
     "title": "Babas au rhum",
-    "description": null,
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Grand modèleGrand modèle",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "30,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/101-large_default/babas-au-rhum.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/101-large_default/babas-au-rhum.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE, sucre, eau, BEURRE, jaunes d'OEUFS, rhum brun, levure, zestes de citron et orange, extrait de vanille, sel.Farine de BLE, sucre, eau, BEURRE, jaunes d'OEUFS, rhum brun, levure, zestes de citron et orange, extrait de vanille, sel."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/gourmandises-de-d-je/134-babas-au-rhum-.html",
     "title": "Babas au rhum",
-    "description": null,
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Mini babas imbibés d'un sirop au rhum zesté d'agrumes.Mini babas imbibés d'un sirop au rhum zesté d'agrumes.",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "17,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/100-large_default/babas-au-rhum-.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/100-large_default/babas-au-rhum-.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE, sucre, eau, BEURRE, jaunes d'OEUFS, rhum brun, levure, zestes de citron et orange, extrait de vanille, sel.Farine de BLE, sucre, eau, BEURRE, jaunes d'OEUFS, rhum brun, levure, zestes de citron et orange, extrait de vanille, sel."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grignotages/87-diamants-cacao.html",
     "title": "Diamants cacao",
-    "description": "Biscuits secs au cacao.",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Biscuits secs au cacao.Biscuits secs au cacao.",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/70-large_default/diamants-cacao.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/70-large_default/diamants-cacao.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE, BEURRE, sucre, OEUFS, cacao en poudre. Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes.Farine de BLE, BEURRE, sucre, OEUFS, cacao en poudre. Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/epicerie-fine/129-croquants-amandes-noisettes.html",
     "title": "Croquants amandes-noisettes",
-    "description": "Des biscuits croustillants et aériens, agrémentés d'amandes et noisettes torréfiées... à déguster sans modération !",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Des biscuits croustillants et aériens, agrémentés d'amandes et noisettes torréfiées... à déguster sans modération !Des biscuits croustillants et aériens, agrémentés d'amandes et noisettes torréfiées... à déguster sans modération !",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/89-large_default/croquants-amandes-noisettes.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/89-large_default/croquants-amandes-noisettes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Sucre, blanc d'OEUFS, farine de BLE, AMANDES (10.5%), NOISETTES (10.5%).Sucre, blanc d'OEUFS, farine de BLE, AMANDES (10.5%), NOISETTES (10.5%)."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/epicerie-fine/128-cantuccinis-aux-amandes.html",
     "title": "Cantuccinis aux amandes",
-    "description": "Les traditionnels cantuccinis aux amandes du chef !",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Les traditionnels cantuccinis aux amandes du chef !Les traditionnels cantuccinis aux amandes du chef !",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/88-large_default/cantuccinis-aux-amandes.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/88-large_default/cantuccinis-aux-amandes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "OEUFS, farine de BLE, sucre, AMANDES, zestes d'oranges, sel, levure.OEUFS, farine de BLE, sucre, AMANDES, zestes d'oranges, sel, levure."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/epicerie-fine/127-rochers-coco.html",
     "title": "Rochers coco",
-    "description": "Croustillant à l'extérieur, moelleux à l'intérieur... un pur plaisir entièrement coco !",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Croustillant à l'extérieur, moelleux à l'intérieur... un pur plaisir entièrement coco !Croustillant à l'extérieur, moelleux à l'intérieur... un pur plaisir entièrement coco !",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/87-large_default/rochers-coco.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/87-large_default/rochers-coco.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Noix de coco rapée, sucre, blancs d'OEUFS.Noix de coco rapée, sucre, blancs d'OEUFS."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/epicerie-fine/126-preparation-cookies.html",
     "title": "Préparation cookies",
-    "description": "Faire des cookies n'a jamais été aussi facile ! Réalisez chez vous les fameux cookies du Chef Jérôme De Oliveira grâce à une préparation déjà concoctée pour vous… seulement deux ingrédients à ajouter et il ne vous reste qu'à les dévorer !",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Faire des cookies n'a jamais été aussi facile ! Réalisez chez vous les fameux cookies du Chef Jérôme De Oliveira grâce à une préparation déjà concoctée pour vous… seulement deux ingrédients à ajouter et il ne vous reste qu'à les dévorer !Faire des cookies n'a jamais été aussi facile ! Réalisez chez vous les fameux cookies du Chef Jérôme De Oliveira grâce à une préparation déjà concoctée pour vous… seulement deux ingrédients à ajouter et il ne vous reste qu'à les dévorer !",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "16,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/86-large_default/preparation-cookies.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/86-large_default/preparation-cookies.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 26% (beurre de cacao, sucre, fèves de cacao, émulsifiant ; lécithine de SOJA), farine de BLE, cassonade, sucre muscovado, sel, bicarbonate de soude.Chocolat noir 26% (beurre de cacao, sucre, fèves de cacao, émulsifiant ; lécithine de SOJA), farine de BLE, cassonade, sucre muscovado, sel, bicarbonate de soude."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/epicerie-fine/125-melange-pour-chocolat-chaud.html",
     "title": "Mélange pour chocolat chaud",
-    "description": "Emmitouflé dans un plaid avec un chocolat chaud… c'est LE moment tant attendu quand le froid pointe son nez. Savourez notre délicieux chocolat chaud chez vous en versant la préparation dans du lait chaud.",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Emmitouflé dans un plaid avec un chocolat chaud… c'est LE moment tant attendu quand le froid pointe son nez. Savourez notre délicieux chocolat chaud chez vous en versant la préparation dans du lait chaud.Emmitouflé dans un plaid avec un chocolat chaud… c'est LE moment tant attendu quand le froid pointe son nez. Savourez notre délicieux chocolat chaud chez vous en versant la préparation dans du lait chaud.",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "14,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/97-large_default/melange-pour-chocolat-chaud.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/97-large_default/melange-pour-chocolat-chaud.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat lait 40% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), cacao poudre, sucreChocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat lait 40% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), cacao poudre, sucre"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/confiseries/124-etui-guimauves.html",
     "title": "Etui guimauves",
-    "description": "Assortiment de guimauves aux parfums naturels (aucun arôme artificiel) de chocolat, vanille, fruits de la passion, citron, caramel, fraise. Une bouchée de cette guimauve vous fera retomber en enfance.",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Assortiment de guimauves aux parfums naturels (aucun arôme artificiel) de chocolat, vanille, fruits de la passion, citron, caramel, fraise. Une bouchée de cette guimauve vous fera retomber en enfance.Assortiment de guimauves aux parfums naturels (aucun arôme artificiel) de chocolat, vanille, fruits de la passion, citron, caramel, fraise. Une bouchée de cette guimauve vous fera retomber en enfance.",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/84-large_default/etui-guimauves.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/84-large_default/etui-guimauves.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Sucre, sucre inverti, eau, gelatine poudre, LAIT en poudre, purées de citron, fraise et passion, pâtes de menthe, vanille, cacao et rose, eau fleur d'oranger, BEURRE, colorants naturels.Sucre, sucre inverti, eau, gelatine poudre, LAIT en poudre, purées de citron, fraise et passion, pâtes de menthe, vanille, cacao et rose, eau fleur d'oranger, BEURRE, colorants naturels."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/confiseries/123-roses-de-mai.html",
     "title": "Roses de Mai",
-    "description": "Nous avons séléctionné pour vous des roses naturelles de Grasse et travaillé leurs pétales… loin des arômes, un goût délicat et végétal.",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Nous avons séléctionné pour vous des roses naturelles de Grasse et travaillé leurs pétales… loin des arômes, un goût délicat et végétal.Nous avons séléctionné pour vous des roses naturelles de Grasse et travaillé leurs pétales… loin des arômes, un goût délicat et végétal.",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "12,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/83-large_default/roses-de-mai.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/83-large_default/roses-de-mai.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Sucre, sucre inverti, eau, gélatine, pétales de roses Centifolia (1%), colorant naturel.Sucre, sucre inverti, eau, gélatine, pétales de roses Centifolia (1%), colorant naturel."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/confiseries/122-oursons-guimauve.html",
     "title": "Oursons guimauve",
-    "description": "Pour petits et grands enfants… qui n'a jamais eu envie de dévorer un ourson guimauve terriblement moelleux et fondant enrobé d'une coque craquante de chocolat au lait ?",
-    "categories": ["Gourmandises de D'jé"],
+    "description": "Pour petits et grands enfants… qui n'a jamais eu envie de dévorer un ourson guimauve terriblement moelleux et fondant enrobé d'une coque craquante de chocolat au lait ?Pour petits et grands enfants… qui n'a jamais eu envie de dévorer un ourson guimauve terriblement moelleux et fondant enrobé d'une coque craquante de chocolat au lait ?",
+    "categories": [
+      "Gourmandises de D'jé"
+    ],
     "price": "15,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/82-large_default/oursons-guimauve.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/82-large_default/oursons-guimauve.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Guimauve vanille (eau, sucre, sucre inverti, gélatine poudre, vanille gousse), chocolat lait 40% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE).Guimauve vanille (eau, sucre, sucre inverti, gélatine poudre, vanille gousse), chocolat lait 40% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)."
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/121-coffret-gateaux-de-voyage.html",
+    "title": "Coffret gâteaux de voyage",
+    "description": "Un coffret rempli de douceur et de gourmandise avec nos gâteaux de voyage incontournables ! Retrouvez le fameux brownie du chef, la madeleine vanille, le moelleux pistache et les financiers fleur d'oranger et tigré.Un coffret rempli de douceur et de gourmandise avec nos gâteaux de voyage incontournables ! Retrouvez le fameux brownie du chef, la madeleine vanille, le moelleux pistache et les financiers fleur d'oranger et tigré.",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "15,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/81-large_default/coffret-gateaux-de-voyage.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Brownie : OEUFS fraisn pâte d'AMANDE, chocolat noir 64% (sucre, beurre de cacao, fèves de cacao de Madagascar, émulsifiant : lécithine de SOJA, extrait naturel de vanille), gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), BEURRE, farine de BLE, AMANDES hachées, levure. Madeleine vanille : BEURRE, LAIT, sucre, OEUFS, farine, levure chimique, vanille. Financier fleur d'oranger : blancs d'OEUFS, sucre, farine de BLE, AMANDES, NOISETTES, fleur d'oranger, levure chimique, BEURRE. Financier tigré : blancs d'OEUFS, sucre, farine de BLE, AMANDES, NOISETTES, zestes d'oranges, levure chimique, BEURRE, chocolat lait 40% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, emulsifiant : lécithine de SOJA, extrait naturel de malt d'ORGE), chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille). Présence de fruits à coque (PISTACHES, NOISETTES, AMANDES). Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes.Brownie : OEUFS fraisn pâte d'AMANDE, chocolat noir 64% (sucre, beurre de cacao, fèves de cacao de Madagascar, émulsifiant : lécithine de SOJA, extrait naturel de vanille), gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), BEURRE, farine de BLE, AMANDES hachées, levure. Madeleine vanille : BEURRE, LAIT, sucre, OEUFS, farine, levure chimique, vanille. Financier fleur d'oranger : blancs d'OEUFS, sucre, farine de BLE, AMANDES, NOISETTES, fleur d'oranger, levure chimique, BEURRE. Financier tigré : blancs d'OEUFS, sucre, farine de BLE, AMANDES, NOISETTES, zestes d'oranges, levure chimique, BEURRE, chocolat lait 40% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, emulsifiant : lécithine de SOJA, extrait naturel de malt d'ORGE), chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille). Présence de fruits à coque (PISTACHES, NOISETTES, AMANDES). Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes."
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/bubble-cakes/97-assortiment-de-bubble-cakes.html",
+    "title": "Assortiment de bubble cakes",
+    "description": "Un bubble cake qu'est-ce que c’est ?! Avant tout c'est deux bouchées de pur plaisir car si les Bubble Cakes® sont sans gluten, ils sont aussi 100% gourmands !!Un bubble cake qu'est-ce que c’est ?! Avant tout c'est deux bouchées de pur plaisir car si les Bubble Cakes® sont sans gluten, ils sont aussi 100% gourmands !!",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "11,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/146-large_default/assortiment-de-bubble-cakes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Bubble café (BEURRE, poudre d'AMANDE, OEUF, sucre glace, café, crème, glucose, gianduja (NOISETTE, sucre, LAIT en poudre, beurre de cacao, feve de cacao, lecithine de SOJA, proteine d'OEUF), chocolat noir (Pate de cacao, beurre de cacao, lécithine de SOJA, extrait de vanille, sucre), chocolat dulcey (Chocolat blanc 32%, beurre de cacao, sucre, lécithine de SOJA, extrait de vanille, LAIT en poudre), Bubble caramel (BEURRE, poudre d'AMANDE, OEUF, sucre glace, caramel, sucre, glucose, CREME, sel, gelatine de porc, chocolat lait (beurre de cacao, LAIT en poudre, sucre, fèves de cacao, extrait de vanille, lécithine de SOJA), huile de pepins de raisins, AMANDES hâchées torréfiées), Bubble chocolat noir (BEURRE, poudre d'AMANDE, OEUF, sucre glace, crème, glucose, chocolat noir (Pate de cacao, beurre de cacao, lécithine de SOJA, extrait de vanille, sucre), huile de pépins de raisins, AMANDES hâchées), Bubble noisette (BEURRE, poudre de NOISETTE, OEUF, sucre glace, NOISETTE, sucre, sel, beurre de cacao, chocolat lait (beurre de cacao, LAIT en poudre, sucre, fèves de cacao, extrait de vanille, lécithine de SOJA), huile de pépins de raisins, NOISETTES hâchées), Bubble vanille (BEURRE, poudre d'AMANDE, OEUF, sucre glace, vanille, CREME, chocolat blanc (beurre de cacao, sucre, lécithine de SOJA, extrait de vanille, LAIT en poudre, pate de vanille), huile de pépins de raisins, AMANDES hâchées), Bubble banane-pecan (OEUFS, cassonade, CREME, poudre d'AMANDE, amidon, fécule de pomme de terre, banane, noix de PECAN, sucre, sel, beurre de cacao, chocolat noir (Pate de cacao, beurre de cacao, lécithine de SOJA, extrait de vanille, sucre), chocolat blanc (beurre de cacao, sucre, lécithine de SOJA, extrait de vanille, LAIT en poudre, pate de vanille), huile de pépins de raisins, PECAN hâchées, colorant naturel carthame et citron).Bubble café (BEURRE, poudre d'AMANDE, OEUF, sucre glace, café, crème, glucose, gianduja (NOISETTE, sucre, LAIT en poudre, beurre de cacao, feve de cacao, lecithine de SOJA, proteine d'OEUF), chocolat noir (Pate de cacao, beurre de cacao, lécithine de SOJA, extrait de vanille, sucre), chocolat dulcey (Chocolat blanc 32%, beurre de cacao, sucre, lécithine de SOJA, extrait de vanille, LAIT en poudre), Bubble caramel (BEURRE, poudre d'AMANDE, OEUF, sucre glace, caramel, sucre, glucose, CREME, sel, gelatine de porc, chocolat lait (beurre de cacao, LAIT en poudre, sucre, fèves de cacao, extrait de vanille, lécithine de SOJA), huile de pepins de raisins, AMANDES hâchées torréfiées), Bubble chocolat noir (BEURRE, poudre d'AMANDE, OEUF, sucre glace, crème, glucose, chocolat noir (Pate de cacao, beurre de cacao, lécithine de SOJA, extrait de vanille, sucre), huile de pépins de raisins, AMANDES hâchées), Bubble noisette (BEURRE, poudre de NOISETTE, OEUF, sucre glace, NOISETTE, sucre, sel, beurre de cacao, chocolat lait (beurre de cacao, LAIT en poudre, sucre, fèves de cacao, extrait de vanille, lécithine de SOJA), huile de pépins de raisins, NOISETTES hâchées), Bubble vanille (BEURRE, poudre d'AMANDE, OEUF, sucre glace, vanille, CREME, chocolat blanc (beurre de cacao, sucre, lécithine de SOJA, extrait de vanille, LAIT en poudre, pate de vanille), huile de pépins de raisins, AMANDES hâchées), Bubble banane-pecan (OEUFS, cassonade, CREME, poudre d'AMANDE, amidon, fécule de pomme de terre, banane, noix de PECAN, sucre, sel, beurre de cacao, chocolat noir (Pate de cacao, beurre de cacao, lécithine de SOJA, extrait de vanille, sucre), chocolat blanc (beurre de cacao, sucre, lécithine de SOJA, extrait de vanille, LAIT en poudre, pate de vanille), huile de pépins de raisins, PECAN hâchées, colorant naturel carthame et citron)."
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/96-flan.html",
+    "title": "Flan",
+    "description": "Flan patissier à la vanille française. Le petit plus du chef : une crème vanille très onctueuse…sans œufs !Flan patissier à la vanille française. Le petit plus du chef : une crème vanille très onctueuse…sans œufs !",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "20,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/79-large_default/flan.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine (BLE), OEUF, LAIT, BEURRE, CREME, poudre à CREME, sucre, vanille.Farine (BLE), OEUF, LAIT, BEURRE, CREME, poudre à CREME, sucre, vanille."
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/95-cake-vanille.html",
+    "title": "Cake vanille",
+    "description": "Cake à la vanille française.Cake à la vanille française.",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "15,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/78-large_default/cake-vanille.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE, ŒUFS, huile de pépins de raisins, sucre, pâte de vanille 2%, levure chimique, selFarine de BLE, ŒUFS, huile de pépins de raisins, sucre, pâte de vanille 2%, levure chimique, sel"
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/94-panettone-mandarine.html",
+    "title": "Panettone mandarine",
+    "description": "Spécialité typiquement italienne à la mandarine et au chocolat noir.Spécialité typiquement italienne à la mandarine et au chocolat noir.",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "16,50",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/77-large_default/panettone-mandarine.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Levure biologique, eau, BEURRE, farine de BLE, jaune d'OEUFS, mandarines confites ((11% - écorces d'oranges, sirop de glucose (BLE)), AMANDES effiliées, NOISETTES, sucre, saccharoseLevure biologique, eau, BEURRE, farine de BLE, jaune d'OEUFS, mandarines confites ((11% - écorces d'oranges, sirop de glucose (BLE)), AMANDES effiliées, NOISETTES, sucre, saccharose"
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/93-panettone.html",
+    "title": "Panettone",
+    "description": "Spécialité typiquement italienne aux fruits confits.Spécialité typiquement italienne aux fruits confits.",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "15,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/76-large_default/panettone.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Levure biologique, eau, BEURRE, farine de BLE, jaune d'ŒUFS, oranges confites ((11% - écorces d'oranges, sirop de glucose (BLE)), cedrat confit ((11% - écorces de cedrat, sirop de glucose (BLE)), AMANDES effilées, sucre, saccharose.Levure biologique, eau, BEURRE, farine de BLE, jaune d'ŒUFS, oranges confites ((11% - écorces d'oranges, sirop de glucose (BLE)), cedrat confit ((11% - écorces de cedrat, sirop de glucose (BLE)), AMANDES effilées, sucre, saccharose."
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/92-cake-citron.html",
+    "title": "Cake citron",
+    "description": "Cake aux citrons de Menton.Cake aux citrons de Menton.",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "15,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/75-large_default/cake-citron.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE, sucre, CREME, jaunes d'OEUFS, BEURRE, pâte de citron 2%, levureFarine de BLE, sucre, CREME, jaunes d'OEUFS, BEURRE, pâte de citron 2%, levure"
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/91-cake-yuzu.html",
+    "title": "Cake yuzu",
+    "description": "Le yuzu, agrume japonais, donne à notre cake une saveur acidulée.Le yuzu, agrume japonais, donne à notre cake une saveur acidulée.",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "15,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/74-large_default/cake-yuzu.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE,Sucre, ŒUFS entiers, CREME 35%, BEURRE, pulpe de citron, chocolat inspiration yuzu (sucre, beurre de cacao 36, 1%, maltodextrine, jus de yuzu 2, 1%, émulsifiant : lécithine de SOJA, Peut contenir du LAIT), limoncello, jus de citron jaune 2,5%, jus de yuzu 2%, beurre de cacao, alcool blanc Kéva, eau, huile de pepins de raisin, sirop de glucose (BLE), levure, selFarine de BLE,Sucre, ŒUFS entiers, CREME 35%, BEURRE, pulpe de citron, chocolat inspiration yuzu (sucre, beurre de cacao 36, 1%, maltodextrine, jus de yuzu 2, 1%, émulsifiant : lécithine de SOJA, Peut contenir du LAIT), limoncello, jus de citron jaune 2,5%, jus de yuzu 2%, beurre de cacao, alcool blanc Kéva, eau, huile de pepins de raisin, sirop de glucose (BLE), levure, sel"
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/89-cake-chocolat-gianduja.html",
+    "title": "Cake chocolat-gianduja",
+    "description": "Un must pour les amateurs de chocolat (cacao : 64% min.) et de noisette !Un must pour les amateurs de chocolat (cacao : 64% min.) et de noisette !",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "15,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/72-large_default/cake-chocolat-gianduja.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE, ŒUFS frais, pâte d'AMANDE, chocolat noir 64% (sucre, beurre de cacao, fèves de cacao de Madagascar, émulsifiant : lécithine de SOJA, extrait naturel de vanille), gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), BEURRE, AMANDES hâchées, levure.Farine de BLE, ŒUFS frais, pâte d'AMANDE, chocolat noir 64% (sucre, beurre de cacao, fèves de cacao de Madagascar, émulsifiant : lécithine de SOJA, extrait naturel de vanille), gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), BEURRE, AMANDES hâchées, levure."
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/cakes/88-cake-marbre.html",
+    "title": "Cake marbré",
+    "description": "Cake marbré tout simplement !Cake marbré tout simplement !",
+    "categories": [
+      "Accros aux cakes"
+    ],
+    "price": "15,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/71-large_default/cake-marbre.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE, sucre, CREME, jaune d'ŒUFS, BEURRE, cacao poudre, vanille liquide, levure.Farine de BLE, sucre, CREME, jaune d'ŒUFS, BEURRE, cacao poudre, vanille liquide, levure."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/choco-addict/137-rocailles-noir.html",
     "title": "Rocailles Noir",
-    "description": null,
-    "categories": ["Choco'addict"],
+    "description": "Chocolat noir 60% et amandes caramélisées.Chocolat noir 60% et amandes caramélisées.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "9,90",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/104-large_default/rocailles-noir.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/104-large_default/rocailles-noir.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": ""
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/choco-addict/136-rocailles-lait.html",
     "title": "Rocailles Lait",
-    "description": null,
-    "categories": ["Choco'addict"],
+    "description": "Bâtonnets d'amandes caramélisées enrobées de chocolat au lait.Bâtonnets d'amandes caramélisées enrobées de chocolat au lait.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "9,90",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/103-large_default/rocailles-lait.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/103-large_default/rocailles-lait.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat lacté 40% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), AMANDES batonnets (31%),  sucre, eau, sirop de glucose (BLE).Chocolat lacté 40% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), AMANDES batonnets (31%),  sucre, eau, sirop de glucose (BLE)."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/choco-addict/133-orangettes.html",
     "title": "Orangettes",
-    "description": null,
-    "categories": ["Choco'addict"],
+    "description": "Ecorces d'oranges enrobées d'un chocolat noir 66%.Ecorces d'oranges enrobées d'un chocolat noir 66%.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "9,90",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/96-large_default/orangettes.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/96-large_default/orangettes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Ecorces d'oranges confites ((ecorces d'oranges, sirop de glucose (BLE)), chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille).Ecorces d'oranges confites ((ecorces d'oranges, sirop de glucose (BLE)), chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/choco-addict/132-palets-gingembre.html",
     "title": "Palets gingembre",
-    "description": null,
-    "categories": ["Choco'addict"],
+    "description": "Un chocolat noir corsé allié à la puissance du gingembre.Un chocolat noir corsé allié à la puissance du gingembre.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "9,90",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/95-large_default/palets-gingembre.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/95-large_default/palets-gingembre.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Gingembre confit ((gingembre, sirop de glucose (BLE)), chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille).Gingembre confit ((gingembre, sirop de glucose (BLE)), chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/70-tablette-noir-venezuela-100.html",
     "title": "Tablette noir Venezuela 72%",
-    "description": null,
-    "categories": ["Choco'addict"],
+    "description": "Goût puissant de cacao, notes d'amandes et de café, grande finesse, rondeur et persistance pour cette tablette grand cru du Venezuela.Goût puissant de cacao, notes d'amandes et de café, grande finesse, rondeur et persistance pour cette tablette grand cru du Venezuela.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/141-large_default/tablette-noir-venezuela-100.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/141-large_default/tablette-noir-venezuela-100.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 72% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)Chocolat noir 72% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/69-tablette-noir-chuao-75.html",
     "title": "Tablette noir Chuao 75%",
-    "description": "Une douceur et une rondeur extraordinaires, des notes de crème de lait, de miel et de fruits secs pour ce grand cru d'exception dont la réputation n'est plus à faire.",
-    "categories": ["Choco'addict"],
+    "description": "Une douceur et une rondeur extraordinaires, des notes de crème de lait, de miel et de fruits secs pour ce grand cru d'exception dont la réputation n'est plus à faire.Une douceur et une rondeur extraordinaires, des notes de crème de lait, de miel et de fruits secs pour ce grand cru d'exception dont la réputation n'est plus à faire.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,20",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/148-large_default/tablette-noir-chuao-75.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/148-large_default/tablette-noir-chuao-75.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 75% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)Chocolat noir 75% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/68-tablette-noir-jamaique-70.html",
     "title": "Tablette noir Jamaïque 70%",
-    "description": "Berceau du reggae mais pas seulement… ce grand cru de Jamaïque est notre chouchou avec sa typicité marquée, ses notes de banane, et une longueur en bouche unique.",
-    "categories": ["Choco'addict"],
+    "description": "Berceau du reggae mais pas seulement… ce grand cru de Jamaïque est notre chouchou avec sa typicité marquée, ses notes de banane, et une longueur en bouche unique.Berceau du reggae mais pas seulement… ce grand cru de Jamaïque est notre chouchou avec sa typicité marquée, ses notes de banane, et une longueur en bouche unique.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/149-large_default/tablette-noir-jamaique-70.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/149-large_default/tablette-noir-jamaique-70.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 70% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)Chocolat noir 70% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/63-tablette-noir-caramel-beurre-sale.html",
     "title": "Tablette noir caramel beurre salé",
-    "description": "Que celui qui n'aime pas le caramel parle maintenant ou se taise à jamais !",
-    "categories": ["Choco'addict"],
+    "description": "Que celui qui n'aime pas le caramel parle maintenant ou se taise à jamais !Que celui qui n'aime pas le caramel parle maintenant ou se taise à jamais !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/57-large_default/tablette-noir-caramel-beurre-sale.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/57-large_default/tablette-noir-caramel-beurre-sale.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Crème (LAIT), sucre, BEURRE, sirop de glucose (BLE), Chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), sel, vanille gousse (0,1%)Crème (LAIT), sucre, BEURRE, sirop de glucose (BLE), Chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), sel, vanille gousse (0,1%)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/62-tablette-lait-gianduja-noisettes-entieres.html",
     "title": "Tablette lait gianduja noisettes entières",
-    "description": "Le kif suprême, l'addiction infernale… la crème de la noisette du Piémont, des noisettes entières torréfiées, le top du chocolat, et basta !",
-    "categories": ["Choco'addict"],
+    "description": "Le kif suprême, l'addiction infernale… la crème de la noisette du Piémont, des noisettes entières torréfiées, le top du chocolat, et basta !Le kif suprême, l'addiction infernale… la crème de la noisette du Piémont, des noisettes entières torréfiées, le top du chocolat, et basta !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "9,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/56-large_default/tablette-lait-gianduja-noisettes-entieres.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/56-large_default/tablette-lait-gianduja-noisettes-entieres.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), feuilletine (farine de BLE, sucre, matière grasse LAITIERE anhydre, protéines de LAIT, sel, extrait de malt (ORGE), NOISETTES, sucre, chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), feuilletine (farine de BLE, sucre, matière grasse LAITIERE anhydre, protéines de LAIT, sel, extrait de malt (ORGE), NOISETTES, sucre, chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/61-tablette-noir-gianduja-crunchy.html",
     "title": "Tablette noir gianduja crunchy",
-    "description": "Le prix de la maxi croustillance internationale est attribué à…. La tablette crunchy… pour un pétage de plomb garanti !!",
-    "categories": ["Choco'addict"],
+    "description": "Le prix de la maxi croustillance internationale est attribué à…. La tablette crunchy… pour un pétage de plomb garanti !!Le prix de la maxi croustillance internationale est attribué à…. La tablette crunchy… pour un pétage de plomb garanti !!",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/55-large_default/tablette-noir-gianduja-crunchy.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/55-large_default/tablette-noir-gianduja-crunchy.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), feuilletine (farine de BLE, sucre, matière grasse LAITIERE anhydre, protéines de LAIT, sel, extrait de malt (ORGE), pâte de NOISETTE, céréales croustillantes (farine de BLE, saccharose, malt de BLE, amidon de BLE, poudre à lever : E500, huile de palme, sel, arôme naturel de vanille), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), feuilletine (farine de BLE, sucre, matière grasse LAITIERE anhydre, protéines de LAIT, sel, extrait de malt (ORGE), pâte de NOISETTE, céréales croustillantes (farine de BLE, saccharose, malt de BLE, amidon de BLE, poudre à lever : E500, huile de palme, sel, arôme naturel de vanille), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/60-tablette-praline-amande-citron-vert.html",
     "title": "Tablette praliné amande citron vert",
-    "description": "Une bombe de douceur pour ce praliné amande allié à la fraîcheur du citron vert.",
-    "categories": ["Choco'addict"],
+    "description": "Une bombe de douceur pour ce praliné amande allié à la fraîcheur du citron vert.Une bombe de douceur pour ce praliné amande allié à la fraîcheur du citron vert.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/54-large_default/tablette-praline-amande-citron-vert.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/54-large_default/tablette-praline-amande-citron-vert.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Praliné AMANDES (AMANDES 60%, sucre), chocolat blond 32% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), sel, zestes de citron vert 1%Praliné AMANDES (AMANDES 60%, sucre), chocolat blond 32% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), sel, zestes de citron vert 1%"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/59-tablette-lait-praline-coco.html",
     "title": "Tablette lait praliné coco",
-    "description": "De la noix de coco en provenance du Sri Lanka délicatement caramélisée pour se transformer en praliné ultra gourmand… pour fondre de plaisir.",
-    "categories": ["Choco'addict"],
+    "description": "De la noix de coco en provenance du Sri Lanka délicatement caramélisée pour se transformer en praliné ultra gourmand… pour fondre de plaisir.De la noix de coco en provenance du Sri Lanka délicatement caramélisée pour se transformer en praliné ultra gourmand… pour fondre de plaisir.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/53-large_default/tablette-lait-praline-coco.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/53-large_default/tablette-lait-praline-coco.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Praliné coco (AMANDES 37,5%, coco 15%, sucre, poudre de lait, sel), chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)Praliné coco (AMANDES 37,5%, coco 15%, sucre, poudre de lait, sel), chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/58-tablette-noir-praline-noisette-du-piemont.html",
     "title": "Tablette noir praliné noisette du Piémont",
-    "description": "Un praliné maison canon à base de noisettes du Piémont torréfiées, caramélisées avec une pointe de fleur de sel, et enrobé d'une fine couche de chocolat… Notre best-seller depuis 8 ans, tous ceux qui ont déjà succombé en sont fous… à votre tour !",
-    "categories": ["Choco'addict"],
+    "description": "Un praliné maison canon à base de noisettes du Piémont torréfiées, caramélisées avec une pointe de fleur de sel, et enrobé d'une fine couche de chocolat… Notre best-seller depuis 8 ans, tous ceux qui ont déjà succombé en sont fous… à votre tour !Un praliné maison canon à base de noisettes du Piémont torréfiées, caramélisées avec une pointe de fleur de sel, et enrobé d'une fine couche de chocolat… Notre best-seller depuis 8 ans, tous ceux qui ont déjà succombé en sont fous… à votre tour !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/52-large_default/tablette-noir-praline-noisette-du-piemont.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/52-large_default/tablette-noir-praline-noisette-du-piemont.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Praliné NOISETTE (NOISETTES 60%, sucre), Chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), selPraliné NOISETTE (NOISETTES 60%, sucre), Chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), sel"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/57-tablette-lait-praline-noisette-du-piemont.html",
     "title": "Tablette lait praliné noisette du Piémont",
-    "description": "Un praliné maison canon à base de noisettes du Piémont torréfiées, caramélisées avec une pointe de fleur de sel, et enrobé d'une fine couche de chocolat… Notre best-seller depuis 8 ans, tous ceux qui ont déjà succombé en sont fous… à votre tour ?!",
-    "categories": ["Choco'addict"],
+    "description": "Un praliné maison canon à base de noisettes du Piémont torréfiées, caramélisées avec une pointe de fleur de sel, et enrobé d'une fine couche de chocolat… Notre best-seller depuis 8 ans, tous ceux qui ont déjà succombé en sont fous… à votre tour ?!Un praliné maison canon à base de noisettes du Piémont torréfiées, caramélisées avec une pointe de fleur de sel, et enrobé d'une fine couche de chocolat… Notre best-seller depuis 8 ans, tous ceux qui ont déjà succombé en sont fous… à votre tour ?!",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/51-large_default/tablette-lait-praline-noisette-du-piemont.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/51-large_default/tablette-lait-praline-noisette-du-piemont.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Praliné NOISETTE (NOISETTES 60%, sucre), chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), selPraliné NOISETTE (NOISETTES 60%, sucre), chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), sel"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/53-tablette-noir-meringues.html",
     "title": "Tablette noir meringues",
-    "description": "Qui n'aime pas le chocolat ? Qui n'aime pas la meringue ? Alors nous on s'est dit du chocolat associé à une meringue croquante dans une même tablette ça ne peut que faire un duo de choc, à la fois régressif et addictif.",
-    "categories": ["Choco'addict"],
+    "description": "Qui n'aime pas le chocolat ? Qui n'aime pas la meringue ? Alors nous on s'est dit du chocolat associé à une meringue croquante dans une même tablette ça ne peut que faire un duo de choc, à la fois régressif et addictif.Qui n'aime pas le chocolat ? Qui n'aime pas la meringue ? Alors nous on s'est dit du chocolat associé à une meringue croquante dans une même tablette ça ne peut que faire un duo de choc, à la fois régressif et addictif.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/50-large_default/tablette-noir-meringues.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/50-large_default/tablette-noir-meringues.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), meringue suisse (sucre, blanc d'OEUFS)Chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), meringue suisse (sucre, blanc d'OEUFS)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/51-tablette-noir-gianduja.html",
     "title": "Tablette noir gianduja",
-    "description": "Attention ultra gourmand… dépendance dès la première bouchée pour ce mélange chocolat noir et gianduja à la noisette du Piémont à la texture suave et au goût irrésistible.",
-    "categories": ["Choco'addict"],
+    "description": "Attention ultra gourmand… dépendance dès la première bouchée pour ce mélange chocolat noir et gianduja à la noisette du Piémont à la texture suave et au goût irrésistible.Attention ultra gourmand… dépendance dès la première bouchée pour ce mélange chocolat noir et gianduja à la noisette du Piémont à la texture suave et au goût irrésistible.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/48-large_default/tablette-noir-gianduja.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/48-large_default/tablette-noir-gianduja.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), Chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), Chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/48-tablette-noir-amandes-caramelisees.html",
     "title": "Tablette noir amandes caramélisées",
-    "description": "Plongez au cœur de la Provence en croquant dans cette tablette aux amandes de cette si belle région dont nous exhaustons le goût en les torréfiant, les caramélisant et les ajoutant à un chocolat noir intense. Il ne manque plus que le chant des cigales et vous y êtes !",
-    "categories": ["Choco'addict"],
+    "description": "Plongez au cœur de la Provence en croquant dans cette tablette aux amandes de cette si belle région dont nous exhaustons le goût en les torréfiant, les caramélisant et les ajoutant à un chocolat noir intense. Il ne manque plus que le chant des cigales et vous y êtes !Plongez au cœur de la Provence en croquant dans cette tablette aux amandes de cette si belle région dont nous exhaustons le goût en les torréfiant, les caramélisant et les ajoutant à un chocolat noir intense. Il ne manque plus que le chant des cigales et vous y êtes !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,90",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/45-large_default/tablette-noir-amandes-caramelisees.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/45-large_default/tablette-noir-amandes-caramelisees.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 72% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), AMANDES caramélisées 14% (noisettes, sucre, sel)Chocolat noir 72% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), AMANDES caramélisées 14% (noisettes, sucre, sel)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/47-tablette-noir-mendiants.html",
     "title": "Tablette noir mendiants",
-    "description": "Un incontournable, sa réputation n'est plus à faire. Un mélange si gourmand du meilleur des fruits secs et confits en accord parfait avec un chocolat noir puissant.",
-    "categories": ["Choco'addict"],
+    "description": "Un incontournable, sa réputation n'est plus à faire. Un mélange si gourmand du meilleur des fruits secs et confits en accord parfait avec un chocolat noir puissant.Un incontournable, sa réputation n'est plus à faire. Un mélange si gourmand du meilleur des fruits secs et confits en accord parfait avec un chocolat noir puissant.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,90",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/44-large_default/tablette-noir-mendiants.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/44-large_default/tablette-noir-mendiants.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 72% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), fruits secs et confits (18%) (oranges confites : ecorces d'oranges, sirop de glucose (BLE); Pralines rouges : sucre, AMANDES, agent d'enrobage : gomme arabique, colorant E124 (peut avoir des effets indésirables sur l'activité et l'attention chez les enfants); PISTACHES; NOISETTES).Chocolat noir 72% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), fruits secs et confits (18%) (oranges confites : ecorces d'oranges, sirop de glucose (BLE); Pralines rouges : sucre, AMANDES, agent d'enrobage : gomme arabique, colorant E124 (peut avoir des effets indésirables sur l'activité et l'attention chez les enfants); PISTACHES; NOISETTES)."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/46-tablette-lait-perles-croustillantes.html",
     "title": "Tablette lait perles croustillantes",
-    "description": "Cric, crac, croc… le son du crunchy vous appelle… et c'est encore plus envoutant que le chant des sirènes !",
-    "categories": ["Choco'addict"],
+    "description": "Cric, crac, croc… le son du crunchy vous appelle… et c'est encore plus envoutant que le chant des sirènes !Cric, crac, croc… le son du crunchy vous appelle… et c'est encore plus envoutant que le chant des sirènes !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/43-large_default/tablette-lait-perles-croustillantes.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/43-large_default/tablette-lait-perles-croustillantes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat lait 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE) , céréales croustillantes (farine de BLE, saccharose, malt de BLE, amidon de BLE, poudre à lever : E500, huile de palme, sel, arôme naturel de vanille).Chocolat lait 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE) , céréales croustillantes (farine de BLE, saccharose, malt de BLE, amidon de BLE, poudre à lever : E500, huile de palme, sel, arôme naturel de vanille)."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/45-tablette-noir-grue-caramelise.html",
     "title": "Tablette noir grué caramélisé",
-    "description": "Du chocolat noir mais pas seulement. Pour cette tablette la fève de cacao vient jouer les troubles fête en petits éclats délicatement caramélisés pour amener du croquant et de la puissance aromatique.",
-    "categories": ["Choco'addict"],
+    "description": "Du chocolat noir mais pas seulement. Pour cette tablette la fève de cacao vient jouer les troubles fête en petits éclats délicatement caramélisés pour amener du croquant et de la puissance aromatique.Du chocolat noir mais pas seulement. Pour cette tablette la fève de cacao vient jouer les troubles fête en petits éclats délicatement caramélisés pour amener du croquant et de la puissance aromatique.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/42-large_default/tablette-noir-grue-caramelise.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/42-large_default/tablette-noir-grue-caramelise.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 66%(fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), grué de cacao, sucreChocolat noir 66%(fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), grué de cacao, sucre"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/43-tablette-blond.html",
     "title": "Tablette blond",
-    "description": "Ambré, torréfié, caramélisé, biscuité… pour ne pas dire dulcey de leche… voici les notes de cette tablette de chocolat. Amateurs de douceur elle est pour vous !",
-    "categories": ["Choco'addict"],
+    "description": "Ambré, torréfié, caramélisé, biscuité… pour ne pas dire dulcey de leche… voici les notes de cette tablette de chocolat. Amateurs de douceur elle est pour vous !Ambré, torréfié, caramélisé, biscuité… pour ne pas dire dulcey de leche… voici les notes de cette tablette de chocolat. Amateurs de douceur elle est pour vous !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/40-large_default/tablette-blond.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/40-large_default/tablette-blond.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat blond 32% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)Chocolat blond 32% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/42-tablette-lait-petillante.html",
     "title": "Tablette lait pétillante",
-    "description": "Retour en enfance assuré, éclats de rire garantis… avec cette tablette qui pétille, ça claque, ça boom, ça swingue dans vos papilles !",
-    "categories": ["Choco'addict"],
+    "description": "Retour en enfance assuré, éclats de rire garantis… avec cette tablette qui pétille, ça claque, ça boom, ça swingue dans vos papilles !Retour en enfance assuré, éclats de rire garantis… avec cette tablette qui pétille, ça claque, ça boom, ça swingue dans vos papilles !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/39-large_default/tablette-lait-petillante.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/39-large_default/tablette-lait-petillante.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), sucre pétillant (sucre, sirop de glucose (BLE), LACTOSE, dioxyde de carbone).Chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), sucre pétillant (sucre, sirop de glucose (BLE), LACTOSE, dioxyde de carbone)."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/41-tablette-lait-smarties.html",
     "title": "Tablette lait smarties",
-    "description": "Régressive à souhait mais ça fait tellement de bien de retourner en enfance de temps en temps. Prenez vos bottes de sept lieues et sautez dans cette tablette chocolat-smarties à cœur joie !",
-    "categories": ["Choco'addict"],
+    "description": "Régressive à souhait mais ça fait tellement de bien de retourner en enfance de temps en temps. Prenez vos bottes de sept lieues et sautez dans cette tablette chocolat-smarties à cœur joie !Régressive à souhait mais ça fait tellement de bien de retourner en enfance de temps en temps. Prenez vos bottes de sept lieues et sautez dans cette tablette chocolat-smarties à cœur joie !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/38-large_default/tablette-lait-smarties.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/38-large_default/tablette-lait-smarties.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), \"smarties\" (sucre, beurre de cacao, LAIT écrémé en poudre, pâte de cacao, BEURRE pâtissier, farine de BLE, PETIT-LAIT filtré en poudre, amidon de riz, émulsifiant : lécithines; concentrés de fruits et de plantes : carthame, radis, carotte noire, citron hibiscus; concentré de spiruline, agents d’enrobage : cire d’abeille, cire de carnauba; arôme naturel de vanille).Chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), \"smarties\" (sucre, beurre de cacao, LAIT écrémé en poudre, pâte de cacao, BEURRE pâtissier, farine de BLE, PETIT-LAIT filtré en poudre, amidon de riz, émulsifiant : lécithines; concentrés de fruits et de plantes : carthame, radis, carotte noire, citron hibiscus; concentré de spiruline, agents d’enrobage : cire d’abeille, cire de carnauba; arôme naturel de vanille)."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/39-tablette-lait-riz-souffle-rond.html",
     "title": "Tablette lait riz soufflé rond",
-    "description": "En provenance du Japon où nous avons déniché ce riz rond soufflé unique et crunchy à souhait, croquez … ça décoiffe !",
-    "categories": ["Choco'addict"],
+    "description": "En provenance du Japon où nous avons déniché ce riz rond soufflé unique et crunchy à souhait, croquez … ça décoiffe !En provenance du Japon où nous avons déniché ce riz rond soufflé unique et crunchy à souhait, croquez … ça décoiffe !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/36-large_default/tablette-lait-riz-souffle-rond.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/36-large_default/tablette-lait-riz-souffle-rond.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), riz rond souffléChocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), riz rond soufflé"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/38-tablette-lait-eclats-caramel.html",
     "title": "Tablette noir éclats caramel",
-    "description": null,
-    "categories": ["Choco'addict"],
+    "description": "Que celui qui n'aime pas le caramel parle maintenant ou se taise à jamais !Que celui qui n'aime pas le caramel parle maintenant ou se taise à jamais !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/136-large_default/tablette-lait-eclats-caramel.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/136-large_default/tablette-lait-eclats-caramel.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), caramel éclats (sirop de glucose, LAIT en poudre, BEURRE, sel, sucre)Chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), caramel éclats (sirop de glucose, LAIT en poudre, BEURRE, sel, sucre)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/37-tablette-lait-noisettes-caramelisees.html",
     "title": "Tablette lait noisettes caramélisées",
-    "description": "Nous sélectionnons des noisettes recevant le label IGP en provenance de la région mondialement réputée pour sa noisette : le Piémont...et qui est plus est, à seulement quelques kilomètres de chez nous... chez nos voisins les ritals ! Nous les torréfions, les caramélisons et les ajoutons à un chocolat lait très gourmand... Croquez en une seule bouchée et vous ne pourrez plus vous en passer !",
-    "categories": ["Choco'addict"],
+    "description": "Nous sélectionnons des noisettes recevant le label IGP en provenance de la région mondialement réputée pour sa noisette : le Piémont...et qui est plus est, à seulement quelques kilomètres de chez nous... chez nos voisins les ritals ! Nous les torréfions, les caramélisons et les ajoutons à un chocolat lait très gourmand... Croquez en une seule bouchée et vous ne pourrez plus vous en passer !Nous sélectionnons des noisettes recevant le label IGP en provenance de la région mondialement réputée pour sa noisette : le Piémont...et qui est plus est, à seulement quelques kilomètres de chez nous... chez nos voisins les ritals ! Nous les torréfions, les caramélisons et les ajoutons à un chocolat lait très gourmand... Croquez en une seule bouchée et vous ne pourrez plus vous en passer !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,90",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/34-large_default/tablette-lait-noisettes-caramelisees.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/34-large_default/tablette-lait-noisettes-caramelisees.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), NOISETTES caramélisées 14% (noisettes, sucre, sel)Chocolat lacté 38% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), NOISETTES caramélisées 14% (noisettes, sucre, sel)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grignotages/87-diamants-cacao.html",
     "title": "Diamants cacao",
-    "description": "Biscuits secs au cacao.",
-    "categories": ["Choco'addict"],
+    "description": "Biscuits secs au cacao.Biscuits secs au cacao.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/70-large_default/diamants-cacao.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/70-large_default/diamants-cacao.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine de BLE, BEURRE, sucre, OEUFS, cacao en poudre. Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes.Farine de BLE, BEURRE, sucre, OEUFS, cacao en poudre. Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grignotages/86-minis-mendiants.html",
     "title": "Minis mendiants",
-    "description": null,
-    "categories": ["Choco'addict"],
-    "price": "7,90",
+    "description": "L'association connue et reconnue d'un chocolat noir puissant et des fruits secs et confits pour une explosion de saveurs à la dégustation !L'association connue et reconnue d'un chocolat noir puissant et des fruits secs et confits pour une explosion de saveurs à la dégustation !",
+    "categories": [
+      "Choco'addict"
+    ],
+    "price": "9,90",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/108-large_default/minis-mendiants.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/108-large_default/minis-mendiants.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat noir 72% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), fruits secs et confits (18%)(oranges confites : écorces d'oranges, sirop de glucose (BLE); pralines rouges : sucre, AMANDES, agent d'enrobage : gomme arabique, colorant : E124 (peut avoir des effets indésirables sur l'activité et l'attention chez les enfants), PISTACHES, NOISETTES. Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes.Chocolat noir 72% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), fruits secs et confits (18%)(oranges confites : écorces d'oranges, sirop de glucose (BLE); pralines rouges : sucre, AMANDES, agent d'enrobage : gomme arabique, colorant : E124 (peut avoir des effets indésirables sur l'activité et l'attention chez les enfants), PISTACHES, NOISETTES. Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grignotages/85-fingers-chocolat-croustillants.html",
     "title": "Fingers chocolat croustillants",
-    "description": "Mélange de perles croustillantes enrobées d'un délicieux chocolat noir ou chocolat au lait... Dangereusement régréssif !",
-    "categories": ["Choco'addict"],
+    "description": "Mélange de perles croustillantes enrobées d'un délicieux chocolat noir ou chocolat au lait... Dangereusement régréssif !Mélange de perles croustillantes enrobées d'un délicieux chocolat noir ou chocolat au lait... Dangereusement régréssif !",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "7,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/68-large_default/fingers-chocolat-croustillants.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/68-large_default/fingers-chocolat-croustillants.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat lait 40% (beurre de cacao, LAIT entier en poudre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extraitr de malt d'ORGE), chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), céréales croustillantes (farine de BLE, saccharose, malt de BLE, amidon de BLE, poudre à lever : E500, huile de palme, sel, arôme naturel de vanille). Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes.Chocolat lait 40% (beurre de cacao, LAIT entier en poudre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extraitr de malt d'ORGE), chocolat noir 66% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), céréales croustillantes (farine de BLE, saccharose, malt de BLE, amidon de BLE, poudre à lever : E500, huile de palme, sel, arôme naturel de vanille). Les mentions en majuscules sont destinées aux personnes allergiques ou intolérantes."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grignotages/84-assortiment-drageifiees.html",
     "title": "Assortiment dragéifiées",
-    "description": "A partager… ou pas. Laissez vous tenter par cet assortiment d'amandes, noisettes et céréales biscuitées enrobées de chocolat lait, noir, blond ou framboise... il y en aura pour tous les goûts.",
-    "categories": ["Choco'addict"],
+    "description": "A partager… ou pas. Laissez vous tenter par cet assortiment d'amandes, noisettes et céréales biscuitées enrobées de chocolat lait, noir, blond ou framboise... il y en aura pour tous les goûts.A partager… ou pas. Laissez vous tenter par cet assortiment d'amandes, noisettes et céréales biscuitées enrobées de chocolat lait, noir, blond ou framboise... il y en aura pour tous les goûts.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "21,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/67-large_default/assortiment-drageifiees.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/67-large_default/assortiment-drageifiees.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "AMANDES 30, NOISETTES 30, sucre, beurre de cacao, fèves de cacao, LAIT en poudre, sucre, céréales biscuitées (farine de BLE, sucre malt de BLE, amidon de BLE, poudre à lever (E5OOii), sel, beurre de cacao, arôme naturel), framboise en poudre 2,5%, émulsifiant : lécithine de SOJA, agent d'enrobage : gomme shellac.AMANDES 30, NOISETTES 30, sucre, beurre de cacao, fèves de cacao, LAIT en poudre, sucre, céréales biscuitées (farine de BLE, sucre malt de BLE, amidon de BLE, poudre à lever (E5OOii), sel, beurre de cacao, arôme naturel), framboise en poudre 2,5%, émulsifiant : lécithine de SOJA, agent d'enrobage : gomme shellac."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/pates-a-tartiner/83-tartine-moi-ca-noisettes-du-piemont-et-feuilletine-croustillante.html",
     "title": "Tartine moi ça - Noisettes du Piémont et Feuilletine croustillante",
-    "description": "Notre incontournable noisette du piémont se marie cette fois avec de la feuilletine croustillante pour un éclat en bouche et une explosion de saveurs. Sans huile de palme et sans conservateurs.",
-    "categories": ["Choco'addict"],
+    "description": "Notre incontournable noisette du piémont se marie cette fois avec de la feuilletine croustillante pour un éclat en bouche et une explosion de saveurs. Sans huile de palme et sans conservateurs.Notre incontournable noisette du piémont se marie cette fois avec de la feuilletine croustillante pour un éclat en bouche et une explosion de saveurs. Sans huile de palme et sans conservateurs.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/66-large_default/tartine-moi-ca-noisettes-du-piemont-et-feuilletine-croustillante.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/66-large_default/tartine-moi-ca-noisettes-du-piemont-et-feuilletine-croustillante.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), NOISETTES 21%, sucre, feuilletine (farine de BLE, sucre, matière grasse LAITIERE anhydre, protéines de LAIT, sel, extrait de malt (ORGE), poudre à lever (E500ii), NOIX DE MACADAMIA, LAIT en poudre, BEURRE, cacao en poudre.Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), NOISETTES 21%, sucre, feuilletine (farine de BLE, sucre, matière grasse LAITIERE anhydre, protéines de LAIT, sel, extrait de malt (ORGE), poudre à lever (E500ii), NOIX DE MACADAMIA, LAIT en poudre, BEURRE, cacao en poudre."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/pates-a-tartiner/82-tartine-moi-ca-noix-de-coco.html",
     "title": "Tartine moi ça - Noix de Coco",
-    "description": "La douceur de la noix de coco s'associe avec la noisette et le cacao : un mélange unanime et succulent. Sans huile de palme et sans conservateurs.",
-    "categories": ["Choco'addict"],
+    "description": "La douceur de la noix de coco s'associe avec la noisette et le cacao : un mélange unanime et succulent. Sans huile de palme et sans conservateurs.La douceur de la noix de coco s'associe avec la noisette et le cacao : un mélange unanime et succulent. Sans huile de palme et sans conservateurs.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/90-large_default/tartine-moi-ca-noix-de-coco.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/90-large_default/tartine-moi-ca-noix-de-coco.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), praliné coco (AMANDES 37,5%, coco 15%, sucre, poudre de LAIT, sel), LAIT en poudre, BEURRE, cacao en poudre.Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), praliné coco (AMANDES 37,5%, coco 15%, sucre, poudre de LAIT, sel), LAIT en poudre, BEURRE, cacao en poudre."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/pates-a-tartiner/81-tartine-moi-ca-noisettes-du-piemont.html",
     "title": "Tartine moi ça - Noisettes du Piémont",
-    "description": "Sublime et incontournable duo, le chocolat et la noisette du Piémont s'associent parfaitement pour une onctuosité incomparable, à la fois lisse et croquante, un plaisir intense pour vos papilles. Sans huile de palme et sans conservateurs.",
-    "categories": ["Choco'addict"],
+    "description": "Sublime et incontournable duo, le chocolat et la noisette du Piémont s'associent parfaitement pour une onctuosité incomparable, à la fois lisse et croquante, un plaisir intense pour vos papilles. Sans huile de palme et sans conservateurs.Sublime et incontournable duo, le chocolat et la noisette du Piémont s'associent parfaitement pour une onctuosité incomparable, à la fois lisse et croquante, un plaisir intense pour vos papilles. Sans huile de palme et sans conservateurs.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "8,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/142-large_default/tartine-moi-ca-noisettes-du-piemont.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/142-large_default/tartine-moi-ca-noisettes-du-piemont.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), NOISETTES 24%, sucre, NOIX DE MACADAMIA, LAIT en poudre, BEURRE, cacao en poudre.Gianduja NOISETTE (sucre, NOISETTES, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, vanille naturelle. Peut contenir du LAIT), NOISETTES 24%, sucre, NOIX DE MACADAMIA, LAIT en poudre, BEURRE, cacao en poudre."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/coffrets-chocolat/79-ballotin-addiction-terre-d-agrumes.html",
     "title": "Ballotin Addiction \"Terre d'Agrumes\"",
-    "description": "Pour un plaisir seul ou à plusieurs, le ballotin addiction Terre d'Agrumes est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleurs agrumes d'ici et d'ailleurs pour cet assortiment de pralinés, ganaches et caramels.",
-    "categories": ["Choco'addict"],
+    "description": "Pour un plaisir seul ou à plusieurs, le ballotin addiction Terre d'Agrumes est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleurs agrumes d'ici et d'ailleurs pour cet assortiment de pralinés, ganaches et caramels.Pour un plaisir seul ou à plusieurs, le ballotin addiction Terre d'Agrumes est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleurs agrumes d'ici et d'ailleurs pour cet assortiment de pralinés, ganaches et caramels.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "12,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/64-large_default/ballotin-addiction-terre-d-agrumes.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/64-large_default/ballotin-addiction-terre-d-agrumes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Ganache citron (chocolat LAIT 39% (SOJA), sucre, BEURRE, purée de citron 14,8%, glucose (BLE), trimoline), Ganache yuzu (chocolat LAIT 39% (SOJA), CREME, chocolat blanc yuzu (LACTOSE), sucre, pulpe de yuzu 7,9%, BEURRE, glucose (BLE)), Caramel mandarine (chocolat noir 61%(SOJA), CREME, sucre, jus de mandarine 16%, glucose (BLE), BEURRE, chocolat blanc (LACTOSE), zeste de mandarine), Praliné orange (AMANDES 41%, chocolat LAIT 39%(SOJA), sucre, beurre de cacao, poudre de LAIT, sel, zestes d'orange), Ganache kalamansi (chocolat noir 61% (SOJA), chocolat LAIT 39% (SOJA), sucre, BEURRE, purée de kalamansi 14,8%, glucose (BLE), trimoline), Ganache Bergamotte (chocolat lait 39% (SOJA), purée de bergamotte 21%, chocolat noir 61% (SOJA), sorbitol, CREME, beurre de cacao, BEURRE, glucose (BLE), lecithine de SOJA), Praliné citron vert (AMANDES 41,8%, chocolat noir 61%(SOJA), sucre, beurre de cacao, poudre de LAIT, chocolat LAIT 39%(SOJA), sel, zestes de citron vert), Ganache orange sanguine (chocolat LAIT 39% (SOJA), purée orange sanguine 24,7%, chocolat noir 53%(SOJA), sorbitol, CREME, BEURRE, glucose (BLE), beurre de cacao, zestes d'orange). Colorants : naturels (poudres de fruits)Ganache citron (chocolat LAIT 39% (SOJA), sucre, BEURRE, purée de citron 14,8%, glucose (BLE), trimoline), Ganache yuzu (chocolat LAIT 39% (SOJA), CREME, chocolat blanc yuzu (LACTOSE), sucre, pulpe de yuzu 7,9%, BEURRE, glucose (BLE)), Caramel mandarine (chocolat noir 61%(SOJA), CREME, sucre, jus de mandarine 16%, glucose (BLE), BEURRE, chocolat blanc (LACTOSE), zeste de mandarine), Praliné orange (AMANDES 41%, chocolat LAIT 39%(SOJA), sucre, beurre de cacao, poudre de LAIT, sel, zestes d'orange), Ganache kalamansi (chocolat noir 61% (SOJA), chocolat LAIT 39% (SOJA), sucre, BEURRE, purée de kalamansi 14,8%, glucose (BLE), trimoline), Ganache Bergamotte (chocolat lait 39% (SOJA), purée de bergamotte 21%, chocolat noir 61% (SOJA), sorbitol, CREME, beurre de cacao, BEURRE, glucose (BLE), lecithine de SOJA), Praliné citron vert (AMANDES 41,8%, chocolat noir 61%(SOJA), sucre, beurre de cacao, poudre de LAIT, chocolat LAIT 39%(SOJA), sel, zestes de citron vert), Ganache orange sanguine (chocolat LAIT 39% (SOJA), purée orange sanguine 24,7%, chocolat noir 53%(SOJA), sorbitol, CREME, BEURRE, glucose (BLE), beurre de cacao, zestes d'orange). Colorants : naturels (poudres de fruits)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/coffrets-chocolat/78-ballotin-addiction-collector.html",
     "title": "Ballotin Addiction collector",
-    "description": "Pour un plaisir seul ou à plusieurs, le ballotin Addiction collector est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 24 bonbons enrobés d'un chocolat à la fois craquant et délicat. Vous retrouverez nos pralinés coco, noisette, amande-citron vert et pécan ; nos ganaches café, framboise, grand cru et thé et nos caramels beurre salé, exotique, vanille et mandarine.",
-    "categories": ["Choco'addict"],
+    "description": "Pour un plaisir seul ou à plusieurs, le ballotin Addiction collector est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 24 bonbons enrobés d'un chocolat à la fois craquant et délicat. Vous retrouverez nos pralinés coco, noisette, amande-citron vert et pécan ; nos ganaches café, framboise, grand cru et thé et nos caramels beurre salé, exotique, vanille et mandarine.Pour un plaisir seul ou à plusieurs, le ballotin Addiction collector est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 24 bonbons enrobés d'un chocolat à la fois craquant et délicat. Vous retrouverez nos pralinés coco, noisette, amande-citron vert et pécan ; nos ganaches café, framboise, grand cru et thé et nos caramels beurre salé, exotique, vanille et mandarine.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "30,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/63-large_default/ballotin-addiction-collector.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/63-large_default/ballotin-addiction-collector.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Praliné NOISETTES (NOISETTES 60%, sucre, poudre de LAIT, sel), Praliné AMANDES (AMANDES 37,5%, NOISETTES 15%, sucre, poudre de LAIT, sel), praliné coco (AMANDES 37,5%, coco 15%, sucre, poudre de LAIT, sel), praliné PECAN (NOIX DE PECAN 52,5%, sucre, poudre de LAIT, sel), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Caramel citron vert (CREME, sucre, jus de citron vert 19,5%, sirop de glucose (BLE), BEURRE, zestes de citron vert), caramel passion (CREME, sucre, pulpe de passion 20%, sirop de glucose (BLE), BEURRE, vanille gousse 1%), caramel beurre salé (CREME, sucre, BEURRE, sirop de glucose (BLE), sel), caramel vanille (CREME, sucre, BEURRE, sirop de glucose (BLE), vanille gousse 0,5%), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), ganache café (CREME; gianduja NOISETTE : NOISETTES 35%, poudre de LAIT, sucre, beurre de cacao, feves de cacao, vanille, protéines d'OEUFS, soja et gluten (BLE); chocolat noir 61%; sirop de glucose (BLE); café en grain 6%; café soluble 1,75%; dextrose), ganache gingembre (CREME, chocolat LAIT 33%, gingembre frais 8%, chocolat noir 64%, BEURRE, sucre inverti, dextrose), ganache thé (CREME, chocolat noir 61%, sirop de glucose (BLE), chocolat LAIT 39%, BEURRE, sorbitol, thé vert 2,9%), ganache grand cru (CREME, chocolat noir 66%, chocolat LAIT 39%, BEURRE, sucre inverti, sorbitol), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Colorants : naturels (poudres de fruits)Praliné NOISETTES (NOISETTES 60%, sucre, poudre de LAIT, sel), Praliné AMANDES (AMANDES 37,5%, NOISETTES 15%, sucre, poudre de LAIT, sel), praliné coco (AMANDES 37,5%, coco 15%, sucre, poudre de LAIT, sel), praliné PECAN (NOIX DE PECAN 52,5%, sucre, poudre de LAIT, sel), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Caramel citron vert (CREME, sucre, jus de citron vert 19,5%, sirop de glucose (BLE), BEURRE, zestes de citron vert), caramel passion (CREME, sucre, pulpe de passion 20%, sirop de glucose (BLE), BEURRE, vanille gousse 1%), caramel beurre salé (CREME, sucre, BEURRE, sirop de glucose (BLE), sel), caramel vanille (CREME, sucre, BEURRE, sirop de glucose (BLE), vanille gousse 0,5%), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), ganache café (CREME; gianduja NOISETTE : NOISETTES 35%, poudre de LAIT, sucre, beurre de cacao, feves de cacao, vanille, protéines d'OEUFS, soja et gluten (BLE); chocolat noir 61%; sirop de glucose (BLE); café en grain 6%; café soluble 1,75%; dextrose), ganache gingembre (CREME, chocolat LAIT 33%, gingembre frais 8%, chocolat noir 64%, BEURRE, sucre inverti, dextrose), ganache thé (CREME, chocolat noir 61%, sirop de glucose (BLE), chocolat LAIT 39%, BEURRE, sorbitol, thé vert 2,9%), ganache grand cru (CREME, chocolat noir 66%, chocolat LAIT 39%, BEURRE, sucre inverti, sorbitol), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Colorants : naturels (poudres de fruits)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/coffrets-chocolat/77-ballotin-addiction-caramels.html",
     "title": "Ballotin Addiction caramels",
-    "description": "Pour un plaisir seul ou à plusieurs, le ballotin Addiction caramels est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 caramels aux goûts beurre salé, exotique, vanille et mandarine, enrobés d'un chocolat à la fois craquant et délicat.",
-    "categories": ["Choco'addict"],
+    "description": "Pour un plaisir seul ou à plusieurs, le ballotin Addiction caramels est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 caramels aux goûts beurre salé, exotique, vanille et mandarine, enrobés d'un chocolat à la fois craquant et délicat.Pour un plaisir seul ou à plusieurs, le ballotin Addiction caramels est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 caramels aux goûts beurre salé, exotique, vanille et mandarine, enrobés d'un chocolat à la fois craquant et délicat.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "12,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/62-large_default/ballotin-addiction-caramels.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/62-large_default/ballotin-addiction-caramels.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Caramel citron vert (CREME, sucre, jus de citron vert 19,5%, sirop de glucose (BLE), BEURRE, zestes de citron vert), caramel passion (CREME, sucre, pulpe de passion 20%, sirop de glucose (BLE), BEURRE, vanille gousse 1%), caramel beurre salé (CREME, sucre, BEURRE, sirop de glucose (BLE), sel), caramel vanille (CREME, sucre, BEURRE, sirop de glucose (BLE), vanille gousse 0,5%), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Colorants : naturels (poudres de fruits)Caramel citron vert (CREME, sucre, jus de citron vert 19,5%, sirop de glucose (BLE), BEURRE, zestes de citron vert), caramel passion (CREME, sucre, pulpe de passion 20%, sirop de glucose (BLE), BEURRE, vanille gousse 1%), caramel beurre salé (CREME, sucre, BEURRE, sirop de glucose (BLE), sel), caramel vanille (CREME, sucre, BEURRE, sirop de glucose (BLE), vanille gousse 0,5%), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Colorants : naturels (poudres de fruits)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/coffrets-chocolat/76-ballotin-addiction-ganaches.html",
     "title": "Ballotin Addiction ganaches",
-    "description": "Pour un plaisir seul ou à plusieurs, le ballotin Addiction ganaches est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 ganaches aux goûts café, framboise, grand cru et thé, enrobés d'un chocolat à la fois craquant et délicat.",
-    "categories": ["Choco'addict"],
+    "description": "Pour un plaisir seul ou à plusieurs, le ballotin Addiction ganaches est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 ganaches aux goûts café, framboise, grand cru et thé, enrobés d'un chocolat à la fois craquant et délicat.Pour un plaisir seul ou à plusieurs, le ballotin Addiction ganaches est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 ganaches aux goûts café, framboise, grand cru et thé, enrobés d'un chocolat à la fois craquant et délicat.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "12,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/61-large_default/ballotin-addiction-ganaches.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/61-large_default/ballotin-addiction-ganaches.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "ganache café (CREME; gianduja NOISETTE : NOISETTES 35%, poudre de LAIT, sucre, beurre de cacao, feves de cacao, vanille, protéines d'OEUFS, soja et gluten (BLE); chocolat noir 61%; sirop de glucose (BLE); café en grain 6%; café soluble 1,75%; dextrose), ganache gingembre (CREME, chocolat LAIT 33%, gingembre frais 8%, chocolat noir 64%, BEURRE, sucre inverti, dextrose), ganache thé (CREME, chocolat noir 61%, sirop de glucose (BLE), chocolat LAIT 39%, BEURRE, sorbitol, thé vert 2,9%), ganache grand cru (CREME, chocolat noir 66%, chocolat LAIT 39%, BEURRE, sucre inverti, sorbitol), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Colorants : naturels (poudres de fruits)ganache café (CREME; gianduja NOISETTE : NOISETTES 35%, poudre de LAIT, sucre, beurre de cacao, feves de cacao, vanille, protéines d'OEUFS, soja et gluten (BLE); chocolat noir 61%; sirop de glucose (BLE); café en grain 6%; café soluble 1,75%; dextrose), ganache gingembre (CREME, chocolat LAIT 33%, gingembre frais 8%, chocolat noir 64%, BEURRE, sucre inverti, dextrose), ganache thé (CREME, chocolat noir 61%, sirop de glucose (BLE), chocolat LAIT 39%, BEURRE, sorbitol, thé vert 2,9%), ganache grand cru (CREME, chocolat noir 66%, chocolat LAIT 39%, BEURRE, sucre inverti, sorbitol), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Colorants : naturels (poudres de fruits)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/coffrets-chocolat/75-ballotin-addiction-pralines.html",
     "title": "Ballotin Addiction pralinés",
-    "description": "Pour un plaisir seul ou à plusieurs, le ballotin Addiction pralinés est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 pralinés aux goûts coco, noisette, amande-citron vert et pécan, enrobés d'un chocolat à la fois craquant et délicat.",
-    "categories": ["Choco'addict"],
+    "description": "Pour un plaisir seul ou à plusieurs, le ballotin Addiction pralinés est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 pralinés aux goûts coco, noisette, amande-citron vert et pécan, enrobés d'un chocolat à la fois craquant et délicat.Pour un plaisir seul ou à plusieurs, le ballotin Addiction pralinés est le parfait complice des petits instants gourmands. Jérôme De Oliveira s'efforce de sélectionner les meilleures matières premières pour cet assortiment de 4 pralinés aux goûts coco, noisette, amande-citron vert et pécan, enrobés d'un chocolat à la fois craquant et délicat.",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "12,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/60-large_default/ballotin-addiction-pralines.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/60-large_default/ballotin-addiction-pralines.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Praliné NOISETTES (NOISETTES 60%, sucre, poudre de LAIT, sel), Praliné AMANDES (AMANDES 37,5%, NOISETTES 15%, sucre, poudre de LAIT, sel), praliné coco (AMANDES 37,5%, coco 15%, sucre, poudre de LAIT, sel), praliné PECAN (NOIX DE PECAN 52,5%, sucre, poudre de LAIT, sel), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Colorants : naturels (poudres de fruits)Praliné NOISETTES (NOISETTES 60%, sucre, poudre de LAIT, sel), Praliné AMANDES (AMANDES 37,5%, NOISETTES 15%, sucre, poudre de LAIT, sel), praliné coco (AMANDES 37,5%, coco 15%, sucre, poudre de LAIT, sel), praliné PECAN (NOIX DE PECAN 52,5%, sucre, poudre de LAIT, sel), chocolat lait 39% (Beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE), chocolat noir 61% (fèves de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA, extrait naturel de vanille), chocolat blanc 34% (Beurre de cacao, sucre, LAIT entier en poudre, LAIT écrémé en poudre, lactoserum (LAIT), BEURRE, émulsifiant : lécithine de SOJA, extrait naturel de vanille), Colorants : naturels (poudres de fruits)"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/tablettes/73-tablette-lait-madagascar-33.html",
     "title": "Tablette lait Madagascar 33%",
-    "description": "Issu des fèves de cacao de Madagascar cette tablette est l'expression équilibrée de saveurs acidulées adoucies par des notes lactées et caramel prononcées",
-    "categories": ["Choco'addict"],
+    "description": "Issu des fèves de cacao de Madagascar cette tablette est l'expression équilibrée de saveurs acidulées adoucies par des notes lactées et caramel prononcéesIssu des fèves de cacao de Madagascar cette tablette est l'expression équilibrée de saveurs acidulées adoucies par des notes lactées et caramel prononcées",
+    "categories": [
+      "Choco'addict"
+    ],
     "price": "6,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/140-large_default/tablette-lait-madagascar-33.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/140-large_default/tablette-lait-madagascar-33.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Chocolat lacté 33% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)Chocolat lacté 33% (beurre de cacao, LAIT entier en poudre, sucre, fèves de cacao, sucre roux, extrait naturel de vanille, émulsifiant : lécithine de SOJA, extrait de malt d'ORGE)"
+    }
   },
   {
-    "url": "https://jeromedeoliveira.com/choco-addict/152-tablette-xxl-3-chocolats.html",
-    "title": "Tablette XXL 3 chocolats",
-    "description": "",
-    "categories": ["Choco'addict"],
-    "price": "39,00",
+    "url": "https://jeromedeoliveira.com/les-patisseries/160-galette-chronofreeze.html",
+    "title": "Galette Chronofreeze",
+    "description": "Et si vous pouviez déguster la galette du chef partout en France ? C'est possible en exclusivité cette année avec notre galette chronofreeze ! Livrée crue et congelée, vous n'avez plus qu'à la cuire grâce aux conseils du chef pour obtenir un feuilletage croustillant et une frangipane gourmande à souhait !Et si vous pouviez déguster la galette du chef partout en France ? C'est possible en exclusivité cette année avec notre galette chronofreeze ! Livrée crue et congelée, vous n'avez plus qu'à la cuire grâce aux conseils du chef pour obtenir un feuilletage croustillant et une frangipane gourmande à souhait !",
+    "categories": [
+      "Pâtisseries"
+    ],
+    "price": "25,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/135-large_default/tablette-xxl-3-chocolats.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/152-large_default/galette-chronofreeze.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Pâte feuilletée (BEURRE, farine T55 (BLE), sel fin, vinaigre blanc, eau), Crème d'amande (BEURRE, sucre glace, AMANDES, OEUFS, poudre crème pâtissière, GLUTEN).Pâte feuilletée (BEURRE, farine T55 (BLE), sel fin, vinaigre blanc, eau), Crème d'amande (BEURRE, sucre glace, AMANDES, OEUFS, poudre crème pâtissière, GLUTEN)."
+    }
   },
   {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/156-sapin-fourre-praline-noisettes.html",
-    "title": "Sapin fourré praliné noisettes",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "49,00",
+    "url": "https://jeromedeoliveira.com/les-patisseries/159-brioche-des-rois.html",
+    "title": "Brioche des Rois",
+    "description": "Comme un arrière-goût provençal pour l'épiphanie...Une brioche délicieusement parfumée à la fleur d'oranger et recouverte de fruits confits !Comme un arrière-goût provençal pour l'épiphanie...Une brioche délicieusement parfumée à la fleur d'oranger et recouverte de fruits confits !",
+    "categories": [
+      "Pâtisseries"
+    ],
+    "price": "16,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/147-large_default/sapin-fourre-praline-noisettes.jpg"],
-    "extra": {}
+    "images": [],
+    "extra": {
+      "Plus_d_infos": "Brioche (farine (BLE), levure déshydratée, sucre semoule, sucre inverti (trimoline), sel, OEUFS, LAIT, eau de fleur d'oranger, BEURRE).Brioche (farine (BLE), levure déshydratée, sucre semoule, sucre inverti (trimoline), sel, OEUFS, LAIT, eau de fleur d'oranger, BEURRE)."
+    }
   },
   {
-    "url": "https://jeromedeoliveira.com/buches/155-buche-fruits-rouges.html",
+    "url": "https://jeromedeoliveira.com/les-patisseries/158-galette-frangipane.html",
+    "title": "Galette Frangipane",
+    "description": "Une pâte feuilletée croustillante, une généreuse frangipane amande... célébrez l'épiphanie avec la galette des rois du Chef !Une pâte feuilletée croustillante, une généreuse frangipane amande... célébrez l'épiphanie avec la galette des rois du Chef !",
+    "categories": [
+      "Pâtisseries"
+    ],
+    "price": "30,00",
+    "currency": "EUR",
+    "images": [
+      "https://jeromedeoliveira.com/164-large_default/galette-frangipane.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Pâte feuilletée (BEURRE, farine T55 (BLE), sel fin, vinaigre blanc, eau), Crème d'amande (BEURRE, sucre glace, AMANDES, OEUFS, poudre crème pâtissière, GLUTEN).Pâte feuilletée (BEURRE, farine T55 (BLE), sel fin, vinaigre blanc, eau), Crème d'amande (BEURRE, sucre glace, AMANDES, OEUFS, poudre crème pâtissière, GLUTEN)."
+    }
+  },
+  {
+    "url": "https://jeromedeoliveira.com/grands-gateaux/155-buche-fruits-rouges.html",
     "title": "Bûche Fruits Rouges",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
+    "description": "",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "42,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/143-large_default/buche-fruits-rouges.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/143-large_default/buche-fruits-rouges.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": ""
+    }
   },
   {
-    "url": "https://jeromedeoliveira.com/buches/153-buche-glacee.html",
-    "title": "Bûche glacée",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "42,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/137-large_default/buche-glacee.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/choco-addict/152-tablette-xxl-3-chocolats.html",
-    "title": "Tablette XXL 3 chocolats",
-    "description": "",
-    "categories": ["Le Noël de D'Jé"],
-    "price": "39,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/135-large_default/tablette-xxl-3-chocolats.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/151-panier-cadeaux-taille-3.html",
-    "title": "Panier cadeau - Taille 3",
-    "description": "",
-    "categories": ["Le Noël de D'Jé"],
-    "price": "65,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/134-large_default/panier-cadeaux-taille-3.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/150-panier-cadeaux-taille-2.html",
-    "title": "Panier cadeau - Taille 2",
-    "description": "",
-    "categories": ["Le Noël de D'Jé"],
-    "price": "49,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/133-large_default/panier-cadeaux-taille-2.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/149-panier-cadeau-taille-1.html",
-    "title": "Panier cadeau - Taille 1",
-    "description": "",
-    "categories": ["Le Noël de D'Jé"],
-    "price": "29,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/132-large_default/panier-cadeau-taille-1.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/148-sapin-3-chocolats.html",
-    "title": "Sapin 3 chocolats",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "32,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/128-large_default/sapin-3-chocolats.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/147-sapin-3-chocolats.html",
-    "title": "Sapin 3 chocolats",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "59,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/124-large_default/sapin-3-chocolats.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/146-sapin-mendiant.html",
-    "title": "Sapin mendiant",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "32,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/120-large_default/sapin-mendiant.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/145-sapin-mendiant.html",
-    "title": "Sapin mendiant",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "59,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/116-large_default/sapin-mendiant.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/144-renne-rudolf.html",
-    "title": "Renne Rudolf",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "14,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/115-large_default/renne-rudolf.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/143-pere-noel-guimauve.html",
-    "title": "Mini Père Noël guimauve",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "3,50",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/114-large_default/pere-noel-guimauve.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/142-mini-sapin-.html",
-    "title": "Mini sapin praliné",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "4,90",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/113-large_default/mini-sapin-.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/139-fraicheur-d-agrumes.html",
+    "url": "https://jeromedeoliveira.com/les-patisseries/139-fraicheur-d-agrumes.html",
     "title": "Fraîcheur d'Agrumes",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Citron - Yuzu.Citron - Yuzu.",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/110-large_default/fraicheur-d-agrumes.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/110-large_default/fraicheur-d-agrumes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": ""
+    }
   },
   {
-    "url": "https://jeromedeoliveira.com/le-noel-de-d-je/138-mara-des-bois.html",
+    "url": "https://jeromedeoliveira.com/les-patisseries/138-mara-des-bois.html",
     "title": "Mara des Bois",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Fraises et amandes.Fraises et amandes.",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/109-large_default/mara-des-bois.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/109-large_default/mara-des-bois.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": ""
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grands-gateaux/36-flan-a-la-vanille.html",
     "title": "Flan à la vanille",
-    "description": "Flan patissier à la vanille française. Le petit plus du chef : une crème vanille très onctueuse…sans œufs !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Flan patissier à la vanille française. Le petit plus du chef : une crème vanille très onctueuse…sans œufs !Flan patissier à la vanille française. Le petit plus du chef : une crème vanille très onctueuse…sans œufs !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "20,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/33-large_default/flan-a-la-vanille.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/grands-gateaux/34-millefeuille.html",
-    "title": "Millefeuille (4 ou 6 personnes)",
-    "description": "Feuilletage croustillant, crème légère à la vanille française. La tradition du millefeuille avec moins de sucre pour plus de saveur.",
-    "categories": ["Le Noël de D'Jé"],
-    "price": "24,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/31-large_default/millefeuille.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/33-large_default/flan-a-la-vanille.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Farine (BLE), OEUF, LAIT, BEURRE, CREME, poudre à CREME, sucre, vanille.Farine (BLE), OEUF, LAIT, BEURRE, CREME, poudre à CREME, sucre, vanille."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grands-gateaux/32-onde-de-choc.html",
     "title": "Onde de choc (4 ou 6 personnes)",
-    "description": "Mousse chocolat lacté, cœur praliné noisette, croustillant pétillant, biscuit moelleux chocolat. Le must de la gourmandise et une surprise en prime pour surprendre vos papilles !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Mousse chocolat lacté, cœur praliné noisette, croustillant pétillant, biscuit moelleux chocolat. Le must de la gourmandise et une surprise en prime pour surprendre vos papilles !Mousse chocolat lacté, cœur praliné noisette, croustillant pétillant, biscuit moelleux chocolat. Le must de la gourmandise et une surprise en prime pour surprendre vos papilles !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "24,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/29-large_default/onde-de-choc.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/grands-gateaux/30-tarte-fruits-rouges.html",
-    "title": "Tarte fruits rouges (4 ou 6 personnes)",
-    "description": "Assortiment de fruits rouges, pâte sablée tendre à base de crème d'amandes. Un grand classique du chef !",
-    "categories": ["Le Noël de D'Jé"],
-    "price": "24,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/27-large_default/tarte-fruits-rouges.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/grands-gateaux/28-tarte-framboises.html",
-    "title": "Tarte framboises (4 ou 6 personnes)",
-    "description": "Framboises fraîches, pâte sablée tendre à base de crème d'amandes. Un grand classique du chef !",
-    "categories": ["Le Noël de D'Jé"],
-    "price": "24,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/25-large_default/tarte-framboises.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/29-large_default/onde-de-choc.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Mousse chocolat lacté, cœur praliné noisettes, croustillant pétillant, biscuit moelleux chocolat. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA.Mousse chocolat lacté, cœur praliné noisettes, croustillant pétillant, biscuit moelleux chocolat. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grands-gateaux/26-tarte-citron-meringuee.html",
     "title": "Tarte citron meringuée (4 ou 6 personnes)",
-    "description": "Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. Craquez pour cette douceur ensoleillée !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. Craquez pour cette douceur ensoleillée !Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. Craquez pour cette douceur ensoleillée !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "22,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/23-large_default/tarte-citron-meringuee.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/23-large_default/tarte-citron-meringuee.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. PRODUITS LAITIERS, ŒUFS, GLUTENCrémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. PRODUITS LAITIERS, ŒUFS, GLUTEN"
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grands-gateaux/24-pavlova-marron-mandarine.html",
     "title": "Pavlova marron-mandarine (4 ou 6 personnes)",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Crémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante Le mariage exquis entre l'acidité de la mandarine et la douceur du marron. Format 4 personnesCrémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante Le mariage exquis entre l'acidité de la mandarine et la douceur du marron. Format 4 personnes",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "24,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/21-large_default/pavlova-marron-mandarine.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/21-large_default/pavlova-marron-mandarine.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Crémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante. PRODUITS LAITIERS, ŒUFS, FRUITS A COQUE.Crémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante. PRODUITS LAITIERS, ŒUFS, FRUITS A COQUE."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grands-gateaux/22-paris-cannes.html",
     "title": "Paris-Cannes (4 ou 6 personnes)",
-    "description": "Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées.",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées.Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées.",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "24,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/19-large_default/paris-cannes.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/19-large_default/paris-cannes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées.FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN.Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées.FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grands-gateaux/20-exalte.html",
     "title": "Exalte (4 ou 6 personnes)",
-    "description": "Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. Un must pour les amateurs de chocolat !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. Un must pour les amateurs de chocolat !Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. Un must pour les amateurs de chocolat !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "24,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/17-large_default/exalte.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/17-large_default/exalte.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA.Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/grands-gateaux/18-banoffee.html",
     "title": "Banoffee (4 ou 6 personnes)",
-    "description": "Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat.",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat.Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat.",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "24,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/93-large_default/banoffee.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/93-large_default/banoffee.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA.Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/16-banoffee.html",
     "title": "Banoffee",
-    "description": "Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat.",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat.Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat.",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/16-large_default/banoffee.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/16-large_default/banoffee.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA.Mousse vanille, compotée de banane, croustillant noix de pécan, biscuit moelleux chocolat. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/15-onde-de-choc.html",
     "title": "Onde de choc",
-    "description": "Mousse chocolat lacté, cœur praliné noisette, croustillant pétillant, biscuit moelleux chocolat. Le must de la gourmandise et une surprise en prime pour surprendre vos papilles !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Mousse chocolat lacté, cœur praliné noisette, croustillant pétillant, biscuit moelleux chocolat. Le must de la gourmandise et une surprise en prime pour surprendre vos papilles !Mousse chocolat lacté, cœur praliné noisette, croustillant pétillant, biscuit moelleux chocolat. Le must de la gourmandise et une surprise en prime pour surprendre vos papilles !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "6,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/15-large_default/onde-de-choc.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/163-large_default/onde-de-choc.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Mousse chocolat lacté, cœur praliné noisettes, croustillant pétillant, biscuit moelleux chocolat. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA.Mousse chocolat lacté, cœur praliné noisettes, croustillant pétillant, biscuit moelleux chocolat. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/14-millefeuille.html",
     "title": "Millefeuille",
-    "description": "Feuilletage croustillant, crème légère à la vanille française. La tradition du millefeuille avec moins de sucre pour plus de saveur.",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Feuilletage croustillant, crème légère à la vanille française. La tradition du millefeuille avec moins de sucre pour plus de saveur.Feuilletage croustillant, crème légère à la vanille française. La tradition du millefeuille avec moins de sucre pour plus de saveur.",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/14-large_default/millefeuille.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/14-large_default/millefeuille.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Feuilletage croustillant, crème légère à la vanille. PRODUITS LAITIERS, ŒUFS, GLUTEN.Feuilletage croustillant, crème légère à la vanille. PRODUITS LAITIERS, ŒUFS, GLUTEN."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/13-tiramisu-cafe.html",
     "title": "Tiramisu café",
-    "description": "Biscuit cuillère imbibé au café, crème mascarpone légère et chantilly mascarpone, crémeux café intense. Le plaisir du café et de la pâtisserie réunis !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Biscuit cuillère imbibé au café, crème mascarpone légère et chantilly mascarpone, crémeux café intense. Le plaisir du café et de la pâtisserie réunis !Biscuit cuillère imbibé au café, crème mascarpone légère et chantilly mascarpone, crémeux café intense. Le plaisir du café et de la pâtisserie réunis !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/13-large_default/tiramisu-cafe.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/13-large_default/tiramisu-cafe.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Biscuit cuillère imbibé au café, crème mascarpone légère et chantilly mascarpone, crémeux café intense. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA.Biscuit cuillère imbibé au café, crème mascarpone légère et chantilly mascarpone, crémeux café intense. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/12-pavlova-marron-mandarine.html",
     "title": "Pavlova marron-mandarine",
-    "description": "Crémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante. Le mariage exquis entre la fraîcheur de la mandarine et la douceur du marron.",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Crémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante. Le mariage exquis entre la fraîcheur de la mandarine et la douceur du marron.Crémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante. Le mariage exquis entre la fraîcheur de la mandarine et la douceur du marron.",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/12-large_default/pavlova-marron-mandarine.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/12-large_default/pavlova-marron-mandarine.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Crémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante. PRODUITS LAITIERS, ŒUFS, FRUITS A COQUE.Crémeux mandarine, confit mandarine, brisures de marrons frais, crème de marrons et meringue croquante. PRODUITS LAITIERS, ŒUFS, FRUITS A COQUE."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/11-exalte.html",
     "title": "Exalte",
-    "description": "Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. Un must pour les amateurs de chocolat !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. Un must pour les amateurs de chocolat !Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. Un must pour les amateurs de chocolat !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/11-large_default/exalte.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/11-large_default/exalte.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA.Mousse chocolat noir 72%, crémeux vanille, croustillant noix de pécan, biscuit moelleux chocolat sans farine. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN, SOJA."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/10-tartelette-citron-meringuee.html",
     "title": "Tartelette citron meringuée",
-    "description": "Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. Craquez pour cette douceur ensoleillée !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. Craquez pour cette douceur ensoleillée !Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. Craquez pour cette douceur ensoleillée !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,00",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/10-large_default/tartelette-citron-meringuee.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/10-large_default/tartelette-citron-meringuee.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. PRODUITS LAITIERS, ŒUFS, GLUTEN.Crémeux onctueux citron, meringue croquante zestée citron vert, sablé croustillant. PRODUITS LAITIERS, ŒUFS, GLUTEN."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/9-tartelette-framboises.html",
     "title": "Tartelette framboises",
-    "description": "Framboises fraîches, pâte sablée tendre à base de crème d'amandes. Un grand classique du chef !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Framboises fraîches, pâte sablée tendre à base de crème d'amandes. Un grand classique du chef !Framboises fraîches, pâte sablée tendre à base de crème d'amandes. Un grand classique du chef !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/9-large_default/tartelette-framboises.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/9-large_default/tartelette-framboises.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Framboises fraîches, pâte sablée tendre à base de crème d'amandes. FRUITS A COQUE, ŒUFS, GLUTEN, SESAME.Framboises fraîches, pâte sablée tendre à base de crème d'amandes. FRUITS A COQUE, ŒUFS, GLUTEN, SESAME."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/8-paris-cannes.html",
     "title": "Paris – Cannes",
-    "description": "Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées.",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées.Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées.",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/8-large_default/paris-cannes.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/8-large_default/paris-cannes.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN.Pâte à choux, crème onctueuse à la noisette, praliné coulant noisette, noisettes caramélisées. FRUITS A COQUE, PRODUITS LAITIERS, ŒUFS, GLUTEN."
+    }
   },
   {
     "url": "https://jeromedeoliveira.com/individuelles/7-religieuse.html",
     "title": "Religieuse",
-    "description": "Pâte à choux, crémeux caramel beurre salé. Une religieuse à tomber à la renverse !",
-    "categories": ["Le Noël de D'Jé"],
+    "description": "Pâte à choux, crémeux caramel beurre salé. Une religieuse à tomber à la renverse !Pâte à choux, crémeux caramel beurre salé. Une religieuse à tomber à la renverse !",
+    "categories": [
+      "Pâtisseries"
+    ],
     "price": "5,50",
     "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/7-large_default/religieuse.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/buches/6-buche-cher-pere-noel.html",
-    "title": "Bûche \"Cher Père Noël…\"",
-    "description": "",
-    "categories": ["Le Noël de D'Jé"],
-    "price": "85,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/6-large_default/buche-cher-pere-noel.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/buches/5-buche-exalte.html",
-    "title": "Bûche Exalte",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "42,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/5-large_default/buche-exalte.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/buches/4-buche-fraicheur-d-agrumes.html",
-    "title": "Bûche Fraîcheur d'Agrumes",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "42,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/4-large_default/buche-fraicheur-d-agrumes.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/buches/3-buche-onde-de-choc.html",
-    "title": "Bûche Onde de Choc",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "42,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/3-large_default/buche-onde-de-choc.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/buches/2-buche-mont-blanc.html",
-    "title": "Bûche Mont Blanc",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "42,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/2-large_default/buche-mont-blanc.jpg"],
-    "extra": {}
-  },
-  {
-    "url": "https://jeromedeoliveira.com/buches/1-buche-mara-des-bois.html",
-    "title": "Bûche Mara des Bois",
-    "description": null,
-    "categories": ["Le Noël de D'Jé"],
-    "price": "42,00",
-    "currency": "EUR",
-    "images": ["https://jeromedeoliveira.com/1-large_default/buche-mara-des-bois.jpg"],
-    "extra": {}
+    "images": [
+      "https://jeromedeoliveira.com/7-large_default/religieuse.jpg"
+    ],
+    "extra": {
+      "Plus_d_infos": "Pâte à choux, crémeux onctueux au caramel beurre salé. PRODUITS LAITIERS, ŒUFS, GLUTEN.Pâte à choux, crémeux onctueux au caramel beurre salé. PRODUITS LAITIERS, ŒUFS, GLUTEN."
+    }
   }
 ]
