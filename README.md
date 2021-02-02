@@ -4,7 +4,7 @@ This project allow the transformation of scraped data to an importable JSON file
 
 ---
 
-## Requirements
+## Requirement
 
 For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
 
