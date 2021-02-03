@@ -1,7 +1,7 @@
 import { generateFlux } from "./functions.js";
 
 import alfgants from "../stores/1000gants.json"; // 658c1335-6441-4f3f-bdf1-a605b7e346e6
-import boutiqueonly from "../stores/boutiqueonly.json"; // ac9f9c15-baca-4461-bf2c-29519590e104
+import boutiqueonly from "../stores/boutiqueonlyonemandelieu.json"; // ac9f9c15-baca-4461-bf2c-29519590e104
 import collection_t from "../stores/collection_t.json"; //  e975083f-3043-46c7-a69e-04e4025fa03f
 import destination_bio from '../stores/destination_bio.json'; //  e9096d7b-8afa-44de-99fb-2b1ac179668f
 import eden_park from "../stores/eden_park.json"; // 992bc7b0-57c4-4823-9698-7e46ce7f9fc0
@@ -31,7 +31,7 @@ import ladrogueriedecharlotte from "../stores/ladrogueriedecharlotte.json"; // 9
  */
 /**
 await generateFlux(alfgants,"1000gants.json","658c1335-6441-4f3f-bdf1-a605b7e346e","Mode");
-await generateFlux(boutiqueonly,"boutiqueonly.json","ac9f9c15-baca-4461-bf2c-29519590e104","Mode");
+await generateFlux(boutiqueonlyonemandelieu,"boutiqueonlyonemandelieu.json","ac9f9c15-baca-4461-bf2c-29519590e104","Mode");
 await generateFlux(destination_bio,"destination_bio.json","e9096d7b-8afa-44de-99fb-2b1ac179668f","Restaurants");
 await generateFlux(originesteaandcoffee,"originesteaandcoffee.json","e9096d7b-8afa-44de-99fb-2b1ac179668f","Restaurants");
 await generateFlux(boucherieagricoledelivery,"boucherieagricoledelivery.json","f5ef5f49-05ce-4575-8858-7a2d73cf28c0","Restaurants");
